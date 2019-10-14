@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/slovakian_polls</id>
+  <title>All Registered Polls for the Národná rada</title>
+  <updated>2019-10-14T20:42:00.399759+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 19.3–24.3%, 31–40 seats</li><li>Sloboda a Solidarita: 5.1–8.1%, 8–13 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.4–8.5%, 8–14 seats</li><li>Slovenská národná strana: 5.4–8.5%, 9–14 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 8.9–12.7%, 14–21 seats</li><li>SME RODINA: 5.8–9.0%, 9–15 seats</li><li>MOST–HÍD: 3.0–5.5%, 0–8 seats</li><li>Kresťanskodemokratické hnutie: 5.5–8.6%, 9–14 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.6%, 0 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia: 11.4–15.6%, 18–25 seats</li><li>Za ľudí: 5.2–8.2%, 9–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-Focus.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-Focus.html"/>
+    <title>Opinion Poll by Focus, 11–17 September 2019</title>
+    <updated>2019-10-14T20:42:00.399759+02:00</updated>
+    <dc:date>2019-10-14T20:42:00.399759+02:00</dc:date>
+  </entry>
+  <dc:date>2019-10-14T20:42:00.399759+02:00</dc:date>
+</feed>
