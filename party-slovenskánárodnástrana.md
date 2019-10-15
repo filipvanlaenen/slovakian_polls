@@ -4,14 +4,14 @@
 
 ## Voting Intentions
 
-Last result: **3.6%** (General Election of 5 March 2016)
+Last result: **8.6%** (General Election of 5 March 2016)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 6.1–8.9% | 5.9–9.4% | 5.6–9.7% | 5.2–10.5% |
-| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.5–9.3% | 6.1–9.7% | 5.9–10.1% | 5.4–10.8% |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.8% | N/A | N/A | N/A | N/A |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -52,30 +52,31 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% | Last Result |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 19% | 98% |  |
-| 6.5–7.5% | 37% | 79% | Median |
-| 7.5–8.5% | 26% | 42% |  |
-| 8.5–9.5% | 12% | 15% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.8% | 100% |  |
+| 5.5–6.5% | 11% | 99.2% |  |
+| 6.5–7.5% | 28% | 88% |  |
+| 7.5–8.5% | 32% | 60% | Median |
+| 8.5–9.5% | 21% | 28% | Last Result |
+| 9.5–10.5% | 6% | 7% |  |
+| 10.5–11.5% | 0.8% | 0.9% |  |
 | 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **0** seats (General Election of 5 March 2016)
+Last result: **15** seats (General Election of 5 March 2016)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–16 | 9–16 | 9–18 | 8–18 |
-| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 11 | 9–13 | 9–13 | 9–14 | 0–15 |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 10 | 10–12 | 10–14 | 10–14 | 10–16 |
-| [12 August 2019](2019-08-12-MVK.html) | MVK | 15 | 12–18 | 12–18 | 10–18 | 10–20 |
-| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 10 | 9–13 | 9–14 | 9–14 | 8–16 |
+| N/A | [Poll Average](average.html) | 13 | 10–17 | 10–17 | 10–18 | 9–20 |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 10 | 10–13 | 10–14 | 10–14 | 8–16 |
+| [12 August 2019](2019-08-12-MVK.html) | MVK | 15 | 13–17 | 13–18 | 12–20 | 11–20 |
+| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 12 | 10–13 | 10–14 | 9–15 | 8–17 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis |  |  |  |  |  |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
@@ -115,7 +116,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
+| 0 | 0.2% | 100% |  |
 | 1 | 0% | 99.8% |  |
 | 2 | 0% | 99.8% |  |
 | 3 | 0% | 99.8% |  |
@@ -123,19 +124,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 99.8% |  |
 | 6 | 0% | 99.8% |  |
 | 7 | 0% | 99.8% |  |
-| 8 | 0.7% | 99.8% |  |
-| 9 | 8% | 99.0% |  |
-| 10 | 34% | 91% |  |
-| 11 | 11% | 57% | Median |
-| 12 | 16% | 46% |  |
-| 13 | 12% | 30% |  |
-| 14 | 5% | 19% |  |
-| 15 | 4% | 14% |  |
-| 16 | 7% | 10% |  |
-| 17 | 0.1% | 3% |  |
-| 18 | 3% | 3% |  |
-| 19 | 0% | 0.2% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 8 | 0% | 99.8% |  |
+| 9 | 0.9% | 99.7% |  |
+| 10 | 24% | 98.9% |  |
+| 11 | 13% | 75% |  |
+| 12 | 7% | 61% |  |
+| 13 | 9% | 54% | Median |
+| 14 | 7% | 45% |  |
+| 15 | 22% | 38% | Last Result |
+| 16 | 4% | 15% |  |
+| 17 | 8% | 11% |  |
+| 18 | 1.4% | 3% |  |
+| 19 | 0.3% | 2% |  |
+| 20 | 1.1% | 1.3% |  |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0% | 0% |  |
 
 

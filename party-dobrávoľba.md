@@ -1,10 +1,10 @@
-# NOVA
+# Dobrá voľba
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **11.0%** (General Election of 5 March 2016)
+Last result: **0.0%** (General Election of 5 March 2016)
 
 ### Confidence Intervals
 
