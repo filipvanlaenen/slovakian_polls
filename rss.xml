@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Tue, 15 Oct 2019 22:28:37 +0200</pubDate>
+    <pubDate>Tue, 15 Oct 2019 22:30:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 11–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.png"
         length="304930"
         type="image/png"/>
-      <pubDate>Tue, 15 Oct 2019 22:28:37 +0200</pubDate>
-      <dc:date>2019-10-15T22:28:37.721714+02:00</dc:date>
+      <pubDate>Tue, 15 Oct 2019 22:30:12 +0200</pubDate>
+      <dc:date>2019-10-15T22:30:12.082089+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
@@ -49,6 +49,6 @@
       <pubDate>Tue, 15 Oct 2019 20:09:44 +0200</pubDate>
       <dc:date>2019-10-15T20:09:44.462633+02:00</dc:date>
     </item>
-    <dc:date>2019-10-15T22:28:37.721714+02:00</dc:date>
+    <dc:date>2019-10-15T22:30:12.082089+02:00</dc:date>
   </channel>
 </rss>
