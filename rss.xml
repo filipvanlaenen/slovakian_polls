@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Tue, 15 Oct 2019 20:09:44 +0200</pubDate>
+    <pubDate>Tue, 15 Oct 2019 22:28:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 19.3–24.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 5.1–8.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.9–12.7%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.8–9.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.5–8.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 11.4–15.6%&lt;/li&gt;&lt;li&gt;Za ľudí: 5.2–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.png"
+        length="304930"
+        type="image/png"/>
+      <pubDate>Tue, 15 Oct 2019 22:28:37 +0200</pubDate>
+      <dc:date>2019-10-15T22:28:37.721714+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-08-29-AKO.html</link>
@@ -39,6 +49,6 @@
       <pubDate>Tue, 15 Oct 2019 20:09:44 +0200</pubDate>
       <dc:date>2019-10-15T20:09:44.462633+02:00</dc:date>
     </item>
-    <dc:date>2019-10-15T20:09:44.462633+02:00</dc:date>
+    <dc:date>2019-10-15T22:28:37.721714+02:00</dc:date>
   </channel>
 </rss>
