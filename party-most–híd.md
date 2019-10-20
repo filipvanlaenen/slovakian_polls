@@ -69,10 +69,10 @@ Last result: **11** seats (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–8 | 0–10 |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0–9 | 0–10 |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–9 |
-| [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0 | 0–9 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–9 | 0–10 |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0–9 | 0–9 | 0–10 |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0–8 | 0–9 |
+| [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0–8 | 0–10 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0–10 | 0–10 | 0–10 | 0–11 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis |  |  |  |  |  |
@@ -113,17 +113,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 0% | 3% |  |
-| 4 | 0% | 3% |  |
-| 5 | 0% | 3% |  |
-| 6 | 0% | 3% |  |
-| 7 | 0% | 3% |  |
-| 8 | 1.1% | 3% |  |
-| 9 | 1.3% | 2% |  |
-| 10 | 0.7% | 0.8% |  |
+| 0 | 96% | 100% | Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0% | 4% |  |
+| 4 | 0% | 4% |  |
+| 5 | 0% | 4% |  |
+| 6 | 0% | 4% |  |
+| 7 | 0% | 4% |  |
+| 8 | 1.1% | 4% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.5% | 0.7% |  |
 | 11 | 0.1% | 0.1% | Last Result |
 | 12 | 0% | 0% |  |
 
