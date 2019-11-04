@@ -10,10 +10,12 @@ Last result: **4.0%** (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.2% | 2.6–4.5% | 2.5–4.7% | 2.2–5.1% |
-| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 3.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.3% | 2.6–4.1% | 2.4–4.4% | 2.3–4.6% | 2.0–5.0% |
+| [15–22 October 2019](2019-10-22-Focus.html) | Focus | 3.2% | N/A | N/A | N/A | N/A |
+| [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 3.2% | N/A | N/A | N/A | N/A |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3.6% | N/A | N/A | N/A | N/A |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
@@ -55,10 +57,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 52% | 96% | Median |
-| 3.5–4.5% | 40% | 44% | Last Result |
-| 4.5–5.5% | 4% | 4% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 58% | 92% | Median |
+| 3.5–4.5% | 32% | 34% | Last Result |
+| 4.5–5.5% | 3% | 3% |  |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -71,10 +73,12 @@ Last result: **0** seats (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–8 |
-| [7–10 October 2019](2019-10-10-AKO.html) | AKO |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15–22 October 2019](2019-10-22-Focus.html) | Focus |  |  |  |  |  |
+| [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO |  |  |  |  |  |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–8 |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–8 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0 | 0–8 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
@@ -117,15 +121,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0% | 0.7% |  |
-| 4 | 0% | 0.7% |  |
-| 5 | 0% | 0.7% |  |
-| 6 | 0% | 0.7% |  |
-| 7 | 0% | 0.7% |  |
-| 8 | 0.5% | 0.7% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0% | 0.5% |  |
+| 2 | 0% | 0.5% |  |
+| 3 | 0% | 0.5% |  |
+| 4 | 0% | 0.5% |  |
+| 5 | 0% | 0.5% |  |
+| 6 | 0% | 0.5% |  |
+| 7 | 0% | 0.5% |  |
+| 8 | 0.2% | 0.5% |  |
 | 9 | 0.2% | 0.3% |  |
 | 10 | 0% | 0% |  |
 
