@@ -10,9 +10,9 @@ Last result: **11.0%** (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.8% | 4.9–8.1% | 4.7–8.4% | 4.3–9.0% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.6% | 4.8–7.9% | 4.6–8.3% | 4.2–8.9% |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.3–9.2% |
-| [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 5.7% | N/A | N/A | N/A | N/A |
+| [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.1–7.8% |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 5.9% | N/A | N/A | N/A | N/A |
@@ -58,12 +58,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.4% | 100% |  |
-| 4.5–5.5% | 16% | 98.5% |  |
-| 5.5–6.5% | 36% | 82% | Median |
-| 6.5–7.5% | 32% | 47% |  |
-| 7.5–8.5% | 13% | 15% |  |
-| 8.5–9.5% | 2% | 2% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 22% | 98% |  |
+| 5.5–6.5% | 39% | 75% | Median |
+| 6.5–7.5% | 26% | 36% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.1% | 1.2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% | Last Result |
 
@@ -76,9 +76,9 @@ Last result: **17** seats (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–13 | 10–15 | 9–17 | 0–18 |
+| N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 0–16 | 0–18 |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 13 | 12–15 | 12–17 | 11–18 | 10–19 |
-| [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 10 | 9–12 | 0–13 | 0–14 | 0–14 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 11 | 10–13 | 10–13 | 9–14 | 0–15 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 10 | 10–12 | 9–12 | 0–12 | 0–14 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO |  |  |  |  |  |
@@ -125,26 +125,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 0% | 98% |  |
-| 2 | 0% | 98% |  |
-| 3 | 0% | 98% |  |
-| 4 | 0% | 98% |  |
-| 5 | 0% | 98% |  |
-| 6 | 0% | 98% |  |
-| 7 | 0% | 98% |  |
-| 8 | 0% | 98% |  |
-| 9 | 0.8% | 98% |  |
-| 10 | 23% | 97% |  |
-| 11 | 19% | 74% |  |
-| 12 | 26% | 55% | Median |
-| 13 | 19% | 29% |  |
-| 14 | 3% | 10% |  |
-| 15 | 2% | 6% |  |
-| 16 | 0.9% | 4% |  |
-| 17 | 1.4% | 3% | Last Result |
-| 18 | 1.5% | 2% |  |
-| 19 | 0.3% | 0.3% |  |
+| 0 | 4% | 100% |  |
+| 1 | 0% | 96% |  |
+| 2 | 0% | 96% |  |
+| 3 | 0% | 96% |  |
+| 4 | 0% | 96% |  |
+| 5 | 0% | 96% |  |
+| 6 | 0% | 96% |  |
+| 7 | 0% | 96% |  |
+| 8 | 0% | 96% |  |
+| 9 | 2% | 96% |  |
+| 10 | 29% | 94% |  |
+| 11 | 23% | 65% | Median |
+| 12 | 20% | 42% |  |
+| 13 | 15% | 22% |  |
+| 14 | 3% | 8% |  |
+| 15 | 2% | 4% |  |
+| 16 | 0.6% | 3% |  |
+| 17 | 0.9% | 2% | Last Result |
+| 18 | 1.0% | 1.2% |  |
+| 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 
 
