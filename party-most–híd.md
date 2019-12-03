@@ -15,12 +15,12 @@ Last result: **6.5%** (General Election of 5 March 2016)
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
-| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3.4% | N/A | N/A | N/A | N/A |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.6–6.2% | 3.2–6.7% |
-| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 4.5% | N/A | N/A | N/A | N/A |
+| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–6.0% | 3.1–6.4% |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 5.1% | N/A | N/A | N/A | N/A |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 4.4% | N/A | N/A | N/A | N/A |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO | 4.2% | N/A | N/A | N/A | N/A |
@@ -79,12 +79,12 @@ Last result: **11** seats (General Election of 5 March 2016)
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–10 |
-| [18–25 September 2019](2019-09-25-AKO.html) | AKO |  |  |  |  |  |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–8 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0–8 | 0–9 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0–8 | 0–10 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0–10 | 0–10 | 0–10 | 0–11 |
-| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis |  |  |  |  |  |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO |  |  |  |  |  |
