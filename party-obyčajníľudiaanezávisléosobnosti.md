@@ -21,9 +21,9 @@ Last result: **11.0%** (General Election of 5 March 2016)
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
-| [11–18 June 2019](2019-06-18-Polis.html) | Polis | 6.3% | N/A | N/A | N/A | N/A |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 6.7% | N/A | N/A | N/A | N/A |
-| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 6.3% | N/A | N/A | N/A | N/A |
+| [11–18 June 2019](2019-06-18-Polis.html) | Polis | 6.3% | 5.4–7.3% | 5.2–7.6% | 5.0–7.8% | 4.6–8.3% |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
+| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [8–10 May 2019](2019-05-10-AKO.html) | AKO | 6.7% | N/A | N/A | N/A | N/A |
 | [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 9.2% | N/A | N/A | N/A | N/A |
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 9.0% | N/A | N/A | N/A | N/A |
@@ -87,8 +87,8 @@ Last result: **17** seats (General Election of 5 March 2016)
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 12 | 10–14 | 10–15 | 10–15 | 9–17 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 11 | 9–13 | 8–14 | 0–14 | 0–14 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 0 | 0–12 | 0–12 | 0–12 | 0–13 |
-| [11–18 June 2019](2019-06-18-Polis.html) | Polis |  |  |  |  |  |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [11–18 June 2019](2019-06-18-Polis.html) | Polis | 11 | 11–12 | 9–13 | 9–13 | 0–15 |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 11 | 9–13 | 9–14 | 9–14 | 0–15 |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO |  |  |  |  |  |
 | [8–10 May 2019](2019-05-10-AKO.html) | AKO |  |  |  |  |  |
 | [29 April–6 May 2019](2019-05-06-AKO.html) | AKO |  |  |  |  |  |
