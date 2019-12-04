@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Tue, 03 Dec 2019 06:55:01 +0100</pubDate>
+    <pubDate>Wed, 04 Dec 2019 06:53:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Polis, 9–13 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html#seats</link>
@@ -189,6 +189,26 @@
       <pubDate>Tue, 03 Dec 2019 06:55:01 +0100</pubDate>
       <dc:date>2019-12-03T06:55:01.306102+01:00</dc:date>
     </item>
-    <dc:date>2019-12-03T06:55:01.306102+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Polis, 11–18 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-06-18-Polis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 16.2–20.6%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 7.0–10.2%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.0–7.8%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 6.2–9.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 9.7–13.4%&lt;/li&gt;&lt;li&gt;SME RODINA: 3.9–6.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.9–6.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 6.8–10.0%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 13.1–17.2%&lt;/li&gt;&lt;li&gt;Za ľudí: 4.1–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-06-18-Polis.png"
+        length="276263"
+        type="image/png"/>
+      <pubDate>Wed, 04 Dec 2019 06:48:17 +0100</pubDate>
+      <dc:date>2019-12-04T06:48:17.041225+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–11 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-06-11-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17.3–22.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 6.4–9.8%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 10.6–14.7%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.8–9.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 6.0–9.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.7–5.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 15.6–20.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-06-11-FOCUS.png"
+        length="295004"
+        type="image/png"/>
+      <pubDate>Wed, 04 Dec 2019 06:53:59 +0100</pubDate>
+      <dc:date>2019-12-04T06:53:59.61548+01:00</dc:date>
+    </item>
+    <dc:date>2019-12-04T06:53:59.61548+01:00</dc:date>
   </channel>
 </rss>
