@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 15 | 12–16 | 12–17 | 11–17 | 11–19 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 14 | 12–16 | 12–17 | 11–18 | 11–19 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0–10 | 0–11 | 0–11 | 0–12 |
-| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 10 | 0–13 | 0–13 | 0–14 | 0–14 |
+| [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 9 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO |  |  |  |  |  |
