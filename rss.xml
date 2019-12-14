@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Sat, 14 Dec 2019 17:21:37 +0100</pubDate>
+    <pubDate>Sat, 14 Dec 2019 18:37:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 2–9 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-12-09-FOCUS.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Sat, 14 Dec 2019 17:21:37 +0100</pubDate>
       <dc:date>2019-12-14T17:21:37.455828+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis, 9–13 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 33–46 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 0–12 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 11–17 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0–15 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 17–26 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 0–12 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–9 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–14 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 17–26 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 17–27 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis-seats.png"
+        length="377079"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 18:37:05 +0100</pubDate>
+      <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis, 9–13 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis-coalitions-seats.png"
+        length="102371"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 18:37:05 +0100</pubDate>
+      <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis, 9–13 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17.8–22.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 3.9–6.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 9.3–13.2%&lt;/li&gt;&lt;li&gt;SME RODINA: 4.0–6.7%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.6–5.0%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 9.3–13.2%&lt;/li&gt;&lt;li&gt;Za ľudí: 9.4–13.3%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 1.7–3.6%&lt;/li&gt;&lt;li&gt;VLASŤ: 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.png"
+        length="335235"
+        type="image/png"/>
+      <pubDate>Sat, 14 Dec 2019 18:37:05 +0100</pubDate>
+      <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 30 October–6 November 2019 – Seat Projections for the Parties</title>
@@ -629,6 +659,6 @@
       <pubDate>Thu, 05 Dec 2019 20:52:37 +0100</pubDate>
       <dc:date>2019-12-05T20:52:37.531371+01:00</dc:date>
     </item>
-    <dc:date>2019-12-14T17:21:37.455828+01:00</dc:date>
+    <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
   </channel>
 </rss>
