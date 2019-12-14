@@ -10,10 +10,10 @@ Last result: **8.6%** (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.8–7.2% | 4.5–7.5% | 4.3–7.8% | 3.9–8.4% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.2% | 4.7–7.5% | 4.4–7.8% | 4.0–8.4% |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 5.4% | 4.5–6.4% | 4.3–6.7% | 4.1–6.9% | 3.8–7.5% |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
-| [9–13 November 2019](2019-11-13-Polis.html) | Polis | 6.1% | N/A | N/A | N/A | N/A |
+| [9–13 November 2019](2019-11-13-Polis.html) | Polis | 6.1% | 5.2–7.1% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
@@ -59,12 +59,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 29% | 95% |  |
-| 5.5–6.5% | 40% | 66% | Median |
-| 6.5–7.5% | 21% | 26% |  |
-| 7.5–8.5% | 4% | 5% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 4% | 100% |  |
+| 4.5–5.5% | 26% | 96% |  |
+| 5.5–6.5% | 43% | 70% | Median |
+| 6.5–7.5% | 22% | 27% |  |
+| 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.3% | 0.3% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -77,10 +77,10 @@ Last result: **15** seats (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 0–12 | 0–12 | 0–13 | 0–14 |
+| N/A | [Poll Average](average.html) | 11 | 0–13 | 0–15 | 0–15 | 0–15 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 0 | 0–10 | 0–12 | 0–13 | 0–13 |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 12 | 12 | 10–12 | 0–13 | 0–14 |
-| [9–13 November 2019](2019-11-13-Polis.html) | Polis |  |  |  |  |  |
+| [9–13 November 2019](2019-11-13-Polis.html) | Polis | 11 | 10–15 | 0–15 | 0–15 | 0–15 |
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 12 | 11–16 | 10–16 | 10–16 | 0–16 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 12 | 11–14 | 10–15 | 10–15 | 0–15 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 13 | 10–14 | 10–14 | 9–14 | 0–15 |
@@ -128,22 +128,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 0% | 70% |  |
-| 2 | 0% | 70% |  |
-| 3 | 0% | 70% |  |
-| 4 | 0% | 70% |  |
-| 5 | 0% | 70% |  |
-| 6 | 0% | 70% |  |
-| 7 | 0% | 70% |  |
-| 8 | 0% | 70% |  |
-| 9 | 3% | 70% |  |
-| 10 | 15% | 67% |  |
-| 11 | 2% | 52% |  |
-| 12 | 47% | 51% | Median |
-| 13 | 3% | 4% |  |
-| 14 | 0.6% | 0.7% |  |
-| 15 | 0.1% | 0.1% | Last Result |
-| 16 | 0% | 0% |  |
+| 0 | 22% | 100% |  |
+| 1 | 0% | 78% |  |
+| 2 | 0% | 78% |  |
+| 3 | 0% | 78% |  |
+| 4 | 0% | 78% |  |
+| 5 | 0% | 78% |  |
+| 6 | 0% | 78% |  |
+| 7 | 0% | 78% |  |
+| 8 | 0% | 78% |  |
+| 9 | 3% | 78% |  |
+| 10 | 23% | 75% |  |
+| 11 | 5% | 53% | Median |
+| 12 | 35% | 48% |  |
+| 13 | 6% | 13% |  |
+| 14 | 1.0% | 7% |  |
+| 15 | 5% | 6% | Last Result |
+| 16 | 0.1% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 
