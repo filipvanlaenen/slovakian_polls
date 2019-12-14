@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovakian_polls</id>
   <title>All Registered Polls for the Národná rada</title>
-  <updated>2019-12-14T17:21:37.455828+01:00</updated>
+  <updated>2019-12-14T18:37:05.801715+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 17.3–22.2%, 31–44 seats</li><li>Sloboda a Solidarita: 4.4–7.3%, 0–13 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 6.5–9.9%, 11–18 seats</li><li>Slovenská národná strana: 4.1–6.9%, 0–13 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 10.0–13.9%, 19–27 seats</li><li>SME RODINA: 5.6–8.8%, 11–15 seats</li><li>MOST–HÍD: 3.2–5.7%, 0–10 seats</li><li>Kresťanskodemokratické hnutie: 4.4–7.3%, 0–12 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 3.2–5.7%, 0–10 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia: 8.6–12.4%, 17–22 seats</li><li>Za ľudí: 7.6–11.2%, 14–20 seats</li><li>Dobrá voľba: 2.8–5.1%, 0 seats</li><li>VLASŤ: 1.4–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_polls/2019-12-09-FOCUS.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by AKO, 19–25 November 2019</title>
     <updated>2019-12-14T17:21:37.455828+01:00</updated>
     <dc:date>2019-12-14T17:21:37.455828+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 17.8–22.8%, 33–46 seats</li><li>Sloboda a Solidarita: 3.9–6.6%, 0–12 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.5–8.7%, 11–17 seats</li><li>Slovenská národná strana: 4.8–7.7%, 0–15 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 9.3–13.2%, 17–26 seats</li><li>SME RODINA: 4.0–6.7%, 0–12 seats</li><li>MOST–HÍD: 3.0–5.5%, 0–9 seats</li><li>Kresťanskodemokratické hnutie: 4.7–7.6%, 0–14 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 2.6–5.0%, 0 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia: 9.3–13.2%, 17–26 seats</li><li>Za ľudí: 9.4–13.3%, 17–27 seats</li><li>Dobrá voľba: 1.7–3.6%, 0 seats</li><li>VLASŤ: 2.4–4.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_polls/2019-11-13-Polis.html"/>
+    <title>Opinion Poll by Polis, 9–13 November 2019</title>
+    <updated>2019-12-14T18:37:05.801715+01:00</updated>
+    <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 17.6–22.6%, 32–43 seats</li><li>Sloboda a Solidarita: 3.8–6.5%, 0–12 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 4.4–7.3%, 0–14 seats</li><li>Slovenská národná strana: 5.4–8.5%, 10–16 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 8.6–12.3%, 15–23 seats</li><li>SME RODINA: 5.5–8.7%, 10–17 seats</li><li>MOST–HÍD: 3.1–5.5%, 0–10 seats</li><li>Kresťanskodemokratické hnutie: 4.4–7.3%, 0–13 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 2.6–4.9%, 0–9 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia: 9.8–13.8%, 18–26 seats</li><li>Za ľudí: 8.8–12.6%, 16–24 seats</li><li>Dobrá voľba: 2.1–4.2%, 0 seats</li><li>VLASŤ: 2.1–4.3%, 0 seats</li></ul></div></content>
@@ -95,5 +103,5 @@
     <updated>2019-12-13T23:05:03.716575+01:00</updated>
     <dc:date>2019-12-13T23:05:03.716575+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-14T17:21:37.455828+01:00</dc:date>
+  <dc:date>2019-12-14T18:37:05.801715+01:00</dc:date>
 </feed>
