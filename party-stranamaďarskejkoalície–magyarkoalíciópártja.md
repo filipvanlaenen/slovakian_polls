@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–8 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0 | 0–8 |
-| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
+| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis |  |  |  |  |  |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0–8 | 0–9 |
@@ -101,7 +101,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [8–12 February 2019](2019-02-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–8 |
-| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
+| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–8 |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–8 |
 | [27–28 November 2018](2018-11-28-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–8 |
@@ -110,9 +110,9 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [15–17 August 2018](2018-08-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
-| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0–9 | 0–10 |
+| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [18–21 June 2018](2018-06-21-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
-| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–10 |
+| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [16–21 May 2018](2018-05-21-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [20–24 April 2018](2018-04-24-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
