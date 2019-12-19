@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Wed, 18 Dec 2019 20:08:20 +0100</pubDate>
+    <pubDate>Thu, 19 Dec 2019 11:16:27 +0100</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 2–9 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-12-09-FOCUS.html#seats</link>
@@ -310,14 +310,34 @@
       <dc:date>2019-10-20T10:02:25.29579+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 1–7 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 32–42 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10–15 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 0–14 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 9–15 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 17–25 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 9–14 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–10 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–17 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 21–28 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS-seats.png"
+        length="300042"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 11:04:23 +0100</pubDate>
+      <dc:date>2019-12-19T11:04:23.098611+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–7 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS-coalitions-seats.png"
+        length="103195"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 11:04:23 +0100</pubDate>
+      <dc:date>2019-12-19T11:04:23.098611+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 1–7 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 19.3–24.4%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 5.5–8.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 10.2–14.2%&lt;/li&gt;&lt;li&gt;SME RODINA: 4.9–7.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 6.1–9.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.5–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Za ľudí: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-08-07-FOCUS.png"
         length="306263"
         type="image/png"/>
-      <pubDate>Tue, 15 Oct 2019 20:09:44 +0200</pubDate>
-      <dc:date>2019-10-15T20:09:44.462633+02:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 11:04:23 +0100</pubDate>
+      <dc:date>2019-12-19T11:04:23.098611+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 19–25 June 2019 – Seat Projections for the Parties</title>
@@ -440,14 +460,34 @@
       <dc:date>2019-12-18T19:15:17.431232+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 8–10 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 27–34 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 18–25 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8–13 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 10–16 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 18–25 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–19 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–10 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 9–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 18–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO-seats.png"
+        length="272009"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 10:51:53 +0100</pubDate>
+      <dc:date>2019-12-19T10:51:53.926558+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 8–10 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO-coalitions-seats.png"
+        length="92832"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 10:51:53 +0100</pubDate>
+      <dc:date>2019-12-19T10:51:53.926558+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 8–10 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 16.9–21.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 11.5–15.8%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 6.6–10.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 11.6–15.9%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.2–11.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.9–9.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 11.6–15.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-05-10-AKO.png"
         length="296475"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 06:46:28 +0100</pubDate>
-      <dc:date>2019-12-05T06:46:28.049109+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 10:51:53 +0100</pubDate>
+      <dc:date>2019-12-19T10:51:53.926558+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 29 April–6 May 2019 – Seat Projections for the Parties</title>
@@ -540,14 +580,54 @@
       <dc:date>2019-12-18T19:45:56.514829+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 1–15 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 34–41 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 16–21 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 16–21 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0–12 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 19–25 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–18 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 13–18 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 11–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS-seats.png"
+        length="248983"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 10:33:56 +0100</pubDate>
+      <dc:date>2019-12-19T10:33:56.058492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–15 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS-coalitions-seats.png"
+        length="91675"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 10:33:56 +0100</pubDate>
+      <dc:date>2019-12-19T10:33:56.058492+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 1–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 20.0–24.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 9.6–12.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 9.6–12.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 11.4–14.8%&lt;/li&gt;&lt;li&gt;SME RODINA: 7.7–10.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 7.7–10.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 6.8–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-03-15-FOCUS.png"
         length="234815"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 17:58:57 +0100</pubDate>
-      <dc:date>2019-12-05T17:58:57.991753+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 10:33:56 +0100</pubDate>
+      <dc:date>2019-12-19T10:33:56.058492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 21–26 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 31–41 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 15–22 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 11–17 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 10–16 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 16–23 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–20 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–11 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–13 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 13–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS-seats.png"
+        length="318545"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 23:10:30 +0100</pubDate>
+      <dc:date>2019-12-18T23:10:30.206973+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 21–26 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS-coalitions-seats.png"
+        length="101319"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 23:10:30 +0100</pubDate>
+      <dc:date>2019-12-18T23:10:30.206973+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 21–26 February 2019 – Voting Intentions</title>
@@ -556,8 +636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.png"
         length="293504"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 18:05:36 +0100</pubDate>
-      <dc:date>2019-12-05T18:05:36.365831+01:00</dc:date>
+      <pubDate>Wed, 18 Dec 2019 23:10:30 +0100</pubDate>
+      <dc:date>2019-12-18T23:10:30.206973+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 8–12 February 2019 – Seat Projections for the Parties</title>
@@ -590,14 +670,34 @@
       <dc:date>2019-12-18T20:01:09.106157+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 16–23 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 34–45 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 17–25 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 14–21 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 11–17 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 12–18 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 14–22 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–13 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–11 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS-seats.png"
+        length="318194"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:39:43 +0100</pubDate>
+      <dc:date>2019-12-19T08:39:43.990307+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 16–23 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS-coalitions-seats.png"
+        length="105512"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:39:43 +0100</pubDate>
+      <dc:date>2019-12-19T08:39:43.990307+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 20.0–25.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10.5–14.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 6.8–10.3%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.6–12.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.5–7.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 3.8–6.5%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.png"
         length="307626"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 18:20:40 +0100</pubDate>
-      <dc:date>2019-12-05T18:20:40.969824+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 08:39:43 +0100</pubDate>
+      <dc:date>2019-12-19T08:39:43.990307+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 1–9 December 2018 – Seat Projections for the Parties</title>
@@ -630,14 +730,34 @@
       <dc:date>2019-12-12T22:40:13.903696+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 27–28 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 33–44 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 22–31 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 10–16 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 13–19 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 12–19 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–20 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–13 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 8–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–11 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO-seats.png"
+        length="316384"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 09:13:56 +0100</pubDate>
+      <dc:date>2019-12-19T09:13:56.715047+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 27–28 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO-coalitions-seats.png"
+        length="104376"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 09:13:56 +0100</pubDate>
+      <dc:date>2019-12-19T09:13:56.715047+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 27–28 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 20.9–26.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 13.8–18.3%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 6.2–9.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 7.7–11.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 7.6–11.2%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.3–12.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 1.6–3.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 4.1–6.9%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 2.3–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-11-28-AKO.png"
         length="307520"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 18:36:15 +0100</pubDate>
-      <dc:date>2019-12-05T18:36:15.648963+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 09:13:56 +0100</pubDate>
+      <dc:date>2019-12-19T09:13:56.715047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 13–15 November 2018 – Seat Projections for the Parties</title>
@@ -820,14 +940,34 @@
       <dc:date>2019-12-17T22:55:08.183255+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 2–9 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 33–43 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 19–26 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 12–19 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 13–20 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 15–21 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 14–22 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–13 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–9 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS-seats.png"
+        length="299058"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:56:36 +0100</pubDate>
+      <dc:date>2019-12-19T08:56:36.651629+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 2–9 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS-coalitions-seats.png"
+        length="101333"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 08:56:36 +0100</pubDate>
+      <dc:date>2019-12-19T08:56:36.651629+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 2–9 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 18.3–23.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10.3–14.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 7.1–10.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 7.8–11.4%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.4–12.2%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.3–12.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 3.1–5.6%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 2.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-08-09-FOCUS.png"
         length="310452"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 19:32:44 +0100</pubDate>
-      <dc:date>2019-12-05T19:32:44.799083+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 08:56:36 +0100</pubDate>
+      <dc:date>2019-12-19T08:56:36.651629+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 18–21 June 2018 – Seat Projections for the Parties</title>
@@ -860,14 +1000,54 @@
       <dc:date>2019-12-16T22:00:24.521633+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 4–11 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 35–44 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 18–27 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 14–22 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 14–21 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 14–20 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 11–18 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–13 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 9–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–9 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–9 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS-seats.png"
+        length="303222"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 11:16:27 +0100</pubDate>
+      <dc:date>2019-12-19T11:16:27.619932+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 4–11 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS-coalitions-seats.png"
+        length="101596"
+        type="image/png"/>
+      <pubDate>Thu, 19 Dec 2019 11:16:27 +0100</pubDate>
+      <dc:date>2019-12-19T11:16:27.619932+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 4–11 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 19.3–24.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10.5–14.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8.3–12.1%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 8.1–11.7%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.0–11.6%&lt;/li&gt;&lt;li&gt;SME RODINA: 6.6–9.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.3–8.4%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 2.9–5.3%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 2.0–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-06-11-FOCUS.png"
         length="306053"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 19:49:16 +0100</pubDate>
-      <dc:date>2019-12-05T19:49:16.031976+01:00</dc:date>
+      <pubDate>Thu, 19 Dec 2019 11:16:27 +0100</pubDate>
+      <dc:date>2019-12-19T11:16:27.619932+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-05-21-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 32–42 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 24–32 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 12–18 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 14–20 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 14–21 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–19 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–12 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 9–14 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–9 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-05-21-AKO-seats.png"
+        length="293271"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 20:41:02 +0100</pubDate>
+      <dc:date>2019-12-18T20:41:02.953049+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-05-21-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-05-21-AKO-coalitions-seats.png"
+        length="101592"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 20:41:02 +0100</pubDate>
+      <dc:date>2019-12-18T20:41:02.953049+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 16–21 May 2018 – Voting Intentions</title>
@@ -876,8 +1056,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-05-21-AKO.png"
         length="308225"
         type="image/png"/>
-      <pubDate>Thu, 05 Dec 2019 19:57:18 +0100</pubDate>
-      <dc:date>2019-12-05T19:57:18.557535+01:00</dc:date>
+      <pubDate>Wed, 18 Dec 2019 20:41:02 +0100</pubDate>
+      <dc:date>2019-12-18T20:41:02.953049+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 24–30 April 2018 – Seat Projections for the Parties</title>
@@ -970,14 +1150,34 @@
       <dc:date>2019-12-17T23:10:27.45985+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 30–39 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 21–28 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 15–21 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 14–21 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 14–21 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 15–21 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–12 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–9 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS-seats.png"
+        length="292200"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 20:19:32 +0100</pubDate>
+      <dc:date>2019-12-18T20:19:32.462189+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS-coalitions-seats.png"
+        length="100288"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 20:19:32 +0100</pubDate>
+      <dc:date>2019-12-18T20:19:32.462189+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 7–13 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17.8–22.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 12.0–16.3%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8.6–12.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.4–12.1%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.6–12.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0.8–2.3%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2018-03-13-FOCUS.png"
         length="304739"
         type="image/png"/>
-      <pubDate>Wed, 18 Dec 2019 20:08:20 +0100</pubDate>
-      <dc:date>2019-12-18T20:08:20.59153+01:00</dc:date>
+      <pubDate>Wed, 18 Dec 2019 20:19:32 +0100</pubDate>
+      <dc:date>2019-12-18T20:19:32.462189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections for the Parties</title>
@@ -1039,6 +1239,6 @@
       <pubDate>Wed, 18 Dec 2019 19:29:52 +0100</pubDate>
       <dc:date>2019-12-18T19:29:52.487034+01:00</dc:date>
     </item>
-    <dc:date>2019-12-18T20:08:20.59153+01:00</dc:date>
+    <dc:date>2019-12-19T11:16:27.619932+01:00</dc:date>
   </channel>
 </rss>
