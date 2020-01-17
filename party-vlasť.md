@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 5 March 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.7% | 1.3–2.9% | 1.2–3.1% | 1.0–3.5% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
+| [10–14 January 2020](2020-01-14-FOCUS.html) | FOCUS | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [7–9 January 2020](2020-01-09-AKO.html) | AKO <br> TA3 | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [7–11 December 2019](2019-12-11-Polis.html) | Polis | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.2% | 1.3–3.6% |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
@@ -62,10 +63,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 69% | 86% | Median |
-| 2.5–3.5% | 17% | 17% |  |
-| 3.5–4.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 12% | 100% |  |
+| 1.5–2.5% | 66% | 88% | Median |
+| 2.5–3.5% | 21% | 22% |  |
+| 3.5–4.5% | 0.7% | 0.7% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -78,6 +79,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [10–14 January 2020](2020-01-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–9 January 2020](2020-01-09-AKO.html) | AKO <br> TA3 | 0 | 0 | 0 | 0 | 0 |
 | [7–11 December 2019](2019-12-11-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
