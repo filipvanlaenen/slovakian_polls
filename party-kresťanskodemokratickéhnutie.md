@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [7–11 December 2019](2019-12-11-Polis.html) | Polis | 11 | 9–12 | 9–13 | 0–14 | 0–16 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 11 | 11 | 11 | 10–12 | 0–14 |
-| [9–13 November 2019](2019-11-13-Polis.html) | Polis | 10 | 10–11 | 10–12 | 10–13 | 0–14 |
+| [9–13 November 2019](2019-11-13-Polis.html) | Polis | 11 | 10–13 | 9–14 | 0–14 | 0–15 |
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 9 | 0–12 | 0–13 | 0–13 | 0–16 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 11 | 10–13 | 10–14 | 9–15 | 0–16 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 9 | 0–11 | 0–11 | 0–11 | 0–13 |
@@ -121,7 +121,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 12 | 10–14 | 10–15 | 9–15 | 8–16 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 10 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 15 | 14–17 | 13–17 | 13–18 | 12–19 |
-| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 11 | 9–13 | 9–13 | 0–13 | 0–14 |
+| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 11 | 9–12 | 0–13 | 0–13 | 0–14 |
 | [8–12 February 2019](2019-02-12-AKO.html) | AKO | 10 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 12 | 10–14 | 10–14 | 10–15 | 9–16 |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 11 | 9–13 | 9–14 | 9–14 | 0–15 |
