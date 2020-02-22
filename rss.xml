@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Fri, 21 Feb 2020 20:02:08 +0100</pubDate>
+    <pubDate>Fri, 21 Feb 2020 23:13:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by AKO, 11–13 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-02-13-AKO.html#seats</link>
@@ -530,14 +530,34 @@
       <dc:date>2020-02-14T20:20:34.756919+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 11–17 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 33–42 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 9–13 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 9–14 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0–15 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 15–22 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 10–16 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–8 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 20–27 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 9–14 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS-seats.png"
+        length="307545"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 23:13:56 +0100</pubDate>
+      <dc:date>2020-02-21T23:13:56.593932+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–17 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS-coalitions-seats.png"
+        length="642183"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 23:13:56 +0100</pubDate>
+      <dc:date>2020-02-21T23:13:56.593932+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 11–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 19.3–24.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 5.1–8.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.9–12.7%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.8–9.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.5–8.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 11.4–15.6%&lt;/li&gt;&lt;li&gt;Za ľudí: 5.2–8.2%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-09-17-FOCUS.png"
         length="321867"
         type="image/png"/>
-      <pubDate>Fri, 14 Feb 2020 20:20:34 +0100</pubDate>
-      <dc:date>2020-02-14T20:20:34.736918+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 23:13:56 +0100</pubDate>
+      <dc:date>2020-02-21T23:13:56.593932+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Seat Projections for the Parties</title>
@@ -820,14 +840,34 @@
       <dc:date>2020-02-21T19:37:17.325402+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 21–26 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 31–41 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 15–22 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 11–17 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 10–16 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 16–23 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–20 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–11 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–13 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 13–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS-seats.png"
+        length="318618"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 20:23:51 +0100</pubDate>
+      <dc:date>2020-02-21T20:23:51.48408+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 21–26 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS-coalitions-seats.png"
+        length="645526"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 20:23:51 +0100</pubDate>
+      <dc:date>2020-02-21T20:23:51.48408+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 21–26 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 18.8–23.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 9.4–13.2%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 6.9–10.3%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 6.1–9.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 9.9–13.9%&lt;/li&gt;&lt;li&gt;SME RODINA: 7.8–11.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.1–8.1%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia: 7.8–11.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-02-26-FOCUS.png"
         length="293572"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2020 20:02:08 +0100</pubDate>
-      <dc:date>2020-02-21T20:02:08.462025+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 20:23:51 +0100</pubDate>
+      <dc:date>2020-02-21T20:23:51.48408+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 8–12 February 2019 – Voting Intentions</title>
@@ -840,14 +880,34 @@
       <dc:date>2020-02-14T20:20:34.664916+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 16–23 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 34–45 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 17–25 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 14–21 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 11–17 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 12–18 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 14–22 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0–13 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–11 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS-seats.png"
+        length="318301"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 21:25:02 +0100</pubDate>
+      <dc:date>2020-02-21T21:25:02.57176+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 16–23 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS-coalitions-seats.png"
+        length="614208"
+        type="image/png"/>
+      <pubDate>Fri, 21 Feb 2020 21:25:02 +0100</pubDate>
+      <dc:date>2020-02-21T21:25:02.57176+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 20.0–25.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10.5–14.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 6.8–10.3%&lt;/li&gt;&lt;li&gt;SME RODINA: 8.6–12.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 4.5–7.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 3.8–6.5%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2019-01-23-FOCUS.png"
         length="307679"
         type="image/png"/>
-      <pubDate>Fri, 14 Feb 2020 20:20:34 +0100</pubDate>
-      <dc:date>2020-02-14T20:20:34.664916+01:00</dc:date>
+      <pubDate>Fri, 21 Feb 2020 21:25:02 +0100</pubDate>
+      <dc:date>2020-02-21T21:25:02.57176+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 1–9 December 2018 – Seat Projections for the Parties</title>
@@ -1269,6 +1329,6 @@
       <pubDate>Thu, 20 Feb 2020 18:53:50 +0100</pubDate>
       <dc:date>2020-02-20T18:53:50.998743+01:00</dc:date>
     </item>
-    <dc:date>2020-02-21T20:02:08.462025+01:00</dc:date>
+    <dc:date>2020-02-21T23:13:56.593932+01:00</dc:date>
   </channel>
 </rss>
