@@ -116,7 +116,7 @@ Last result: **11** seats (General Election of 5 March 2016)
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO | 0 | 0–8 | 0–9 | 0–9 | 0–9 |
 | [8–10 May 2019](2019-05-10-AKO.html) | AKO | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
-| [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 0 | 0–10 | 0–10 | 0–10 | 0–10 |
+| [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 0 | 0–10 | 0–10 | 0–11 | 0–11 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS |  |  |  |  |  |
@@ -130,7 +130,7 @@ Last result: **11** seats (General Election of 5 March 2016)
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 10 | 8–12 | 8–12 | 0–13 | 0–13 |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 10 | 9–12 | 9–12 | 9–13 | 0–14 |
-| [15–17 August 2018](2018-08-17-AKO.html) | AKO | 9 | 0–10 | 0–11 | 0–12 | 0–12 |
+| [15–17 August 2018](2018-08-17-AKO.html) | AKO | 9 | 0–11 | 0–12 | 0–12 | 0–13 |
 | [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 10 | 9–12 | 0–12 | 0–13 | 0–14 |
 | [18–21 June 2018](2018-06-21-AKO.html) | AKO | 10 | 9–13 | 9–13 | 9–13 | 0–14 |
 | [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 10 | 0–11 | 0–12 | 0–13 | 0–14 |
