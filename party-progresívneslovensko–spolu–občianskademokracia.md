@@ -128,7 +128,7 @@ Last result: **0** seats (General Election of 5 March 2016)
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 23 | 21–25 | 20–27 | 20–27 | 18–28 |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 13 | 12–15 | 12–15 | 11–16 | 11–17 |
 | [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 16 | 14–19 | 13–19 | 13–19 | 12–21 |
-| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 11 | 11–13 | 10–14 | 10–15 | 9–16 |
+| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 11 | 10–13 | 10–14 | 9–15 | 9–16 |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [27–28 November 2018](2018-11-28-AKO.html) | AKO |  |  |  |  |  |
