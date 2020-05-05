@@ -1,0 +1,44 @@
+# Overview
+
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
+
+| Period     | Polling firm/Commissioner(s) | OĽaNO | Smer–SD | SME RODINA | Kotleba–ĽSNS | PS–SPOLU | SaS | ZĽ | KDH | SMK–MKP | SNS | DV | V | MOST–HÍD | NOVA | PS | SPOLU |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 29 February 2020 | General Election | 25.0% <br> 53 | 18.3% <br> 38 | 8.2% <br> 17 | 8.0% <br> 17 | 7.0% <br> 0 | 6.2% <br> 13 | 5.8% <br> 12 | 4.6% <br> 0 | 3.9% <br> 0 | 3.2% <br> 0 | 3.1% <br> 0 | 2.9% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 7.0% <br> 0 | 7.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–32% <br> 43–57 | 17–24% <br> 34–46 | 7–13% <br> 13–21 | 5–11% <br> 11–18 | 6–9% <br> 0–16 | 6–11% <br> 12–19 | 2–6% <br> 0–10 | 3–6% <br> 0–9 | 2–6% <br> 0–9 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 0–3% <br> 0 | N/A <br> N/A | 5–8% <br> 0–13 | 0–2% <br> 0 |
+| [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 22–27% <br> 42–49 | 19–24% <br> 37–42 | 10–14% <br> 19–24 | 8–11% <br> 14–18 | 6–9% <br> 0–15 | 5–9% <br> 12–15 | 2–5% <br> 0 | 3–6% <br> 0–9 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–17 April 2020](2020-04-17-AKO.html) | AKO | 27–33% <br> 51–56 | 16–21% <br> 32–35 | 8–12% <br> 19–21 | 5–8% <br> 11–13 | N/A <br> N/A | 8–12% <br> 17–20 | 2–4% <br> 0 | 3–5% <br> 0 | 3–6% <br> 0–11 | 1–3% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | 5–8% <br> 0–13 | 0–2% <br> 0 |
+| [4–8 April 2020](2020-04-08-Polis.html) | Polis | 24–29% <br> 44–59 | 19–24% <br> 34–48 | 6–10% <br> 12–19 | 6–9% <br> 11–18 | 6–9% <br> 0–17 | 7–10% <br> 12–19 | 4–6% <br> 0–11 | 3–5% <br> 0–10 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 29 February 2020 | General Election | 25.0% <br> 53 | 18.3% <br> 38 | 8.2% <br> 17 | 8.0% <br> 17 | 7.0% <br> 0 | 6.2% <br> 13 | 5.8% <br> 12 | 4.6% <br> 0 | 3.9% <br> 0 | 3.2% <br> 0 | 3.1% <br> 0 | 2.9% <br> 0 | 2.0% <br> 0 | 0.0% <br> 0 | 7.0% <br> 0 | 7.0% <br> 0 |
+
+Only polls for which at least the sample size has been published are included in the table above.
+
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Národná rada (95% confidence interval)
++ **OĽaNO:** OBYČAJNÍ ĽUDIA a nezávislé osobnosti
++ **Smer–SD:** SMER–sociálna demokracia
++ **SME RODINA:** SME RODINA
++ **Kotleba–ĽSNS:** Kotleba–Ľudová strana Naše Slovensko
++ **PS–SPOLU:** Progresívne Slovensko–SPOLU–Občianska Demokracia
++ **SaS:** Sloboda a Solidarita
++ **ZĽ:** Za ľudí
++ **KDH:** Kresťanskodemokratické hnutie
++ **SMK–MKP:** Strana maďarskej koalície–Magyar Koalíció Pártja
++ **SNS:** Slovenská národná strana
++ **DV:** Dobrá voľba
++ **V:** VLASŤ
++ **MOST–HÍD:** MOST–HÍD
++ **NOVA:** NOVA
++ **PS:** Progresívne Slovensko
++ **SPOLU:** SPOLU–Občianska Demokracia
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
+
+
+![Graph with voting intentions not yet produced](average.png "Voting Intentions")
+
+![Graph with seats not yet produced](average-seats.png "Seats")
+
+![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
