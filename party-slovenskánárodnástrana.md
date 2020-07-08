@@ -10,9 +10,9 @@ Last result: **3.2%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.7–2.9% | 1.5–3.1% | 1.4–3.2% | 1.2–3.6% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.6% | 1.6–3.9% | 1.5–4.2% | 1.3–4.6% |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
-| [5–10 June 2020](2020-06-10-Polis.html) | Polis | 3.2% | N/A | N/A | N/A | N/A |
+| [5–10 June 2020](2020-06-10-Polis.html) | Polis | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–4.9% |
 | [23–27 May 2020](2020-05-27-Polis.html) | Polis | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
 | [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.6% |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
@@ -27,11 +27,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 70% | 94% | Median |
-| 2.5–3.5% | 24% | 24% | Last Result |
-| 3.5–4.5% | 0.7% | 0.7% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 49% | 96% | Median |
+| 2.5–3.5% | 36% | 47% | Last Result |
+| 3.5–4.5% | 11% | 12% |  |
+| 4.5–5.5% | 0.7% | 0.7% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -44,7 +45,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
-| [5–10 June 2020](2020-06-10-Polis.html) | Polis |  |  |  |  |  |
+| [5–10 June 2020](2020-06-10-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [23–27 May 2020](2020-05-27-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
