@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Wed, 08 Jul 2020 18:01:17 +0200</pubDate>
+    <pubDate>Thu, 23 Jul 2020 07:28:19 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 7–17 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 8.9–12.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 7.7–11.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 21.0–26.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 6.4–9.7%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.0–8.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 1.7–3.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 4.0–6.8%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Za ľudí: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 1.8–3.8%&lt;/li&gt;&lt;li&gt;VLASŤ: 1.9–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.png"
+        length="421217"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jul 2020 07:28:19 +0200</pubDate>
+      <dc:date>2020-07-23T07:28:19.903121+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-06-24-FOCUS.html#seats</link>
@@ -229,6 +239,6 @@
       <pubDate>Tue, 05 May 2020 08:34:48 +0200</pubDate>
       <dc:date>2020-05-05T08:34:48.295026+02:00</dc:date>
     </item>
-    <dc:date>2020-07-08T18:01:17.296865+02:00</dc:date>
+    <dc:date>2020-07-23T07:28:19.903121+02:00</dc:date>
   </channel>
 </rss>
