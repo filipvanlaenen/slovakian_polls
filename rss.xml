@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Thu, 23 Jul 2020 07:28:19 +0200</pubDate>
+    <pubDate>Thu, 23 Jul 2020 23:22:04 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 24–28 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 19–24 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 55–57 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 17–21 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 12–16 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 12–15 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO-seats.png"
+        length="286332"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jul 2020 23:22:04 +0200</pubDate>
+      <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO-coalitions-seats.png"
+        length="575642"
+        type="image/png"/>
+      <pubDate>Thu, 23 Jul 2020 23:22:04 +0200</pubDate>
+      <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 7–17 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.png"
         length="421217"
         type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 07:28:19 +0200</pubDate>
-      <dc:date>2020-07-23T07:28:19.903121+02:00</dc:date>
+      <pubDate>Thu, 23 Jul 2020 23:22:04 +0200</pubDate>
+      <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 June 2020 – Seat Projections for the Parties</title>
@@ -239,6 +259,6 @@
       <pubDate>Tue, 05 May 2020 08:34:48 +0200</pubDate>
       <dc:date>2020-05-05T08:34:48.295026+02:00</dc:date>
     </item>
-    <dc:date>2020-07-23T07:28:19.903121+02:00</dc:date>
+    <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
   </channel>
 </rss>
