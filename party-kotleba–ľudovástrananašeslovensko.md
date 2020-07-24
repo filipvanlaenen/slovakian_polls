@@ -47,8 +47,8 @@ Last result: **17** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 14–21 | 13–23 |
-| [7–17 July 2020](2020-07-17-AKO.html) | AKO | 17 | 17 | 17 | 17 | 17–21 |
+| N/A | [Poll Average](average.html) | 18 | 15–20 | 15–21 | 14–21 | 13–24 |
+| [7–17 July 2020](2020-07-17-AKO.html) | AKO | 18 | 18 | 18–21 | 17–21 | 17–24 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 20 | 16–20 | 16–22 | 14–23 | 13–24 |
 | [5–10 June 2020](2020-06-10-Polis.html) | Polis | 17 | 14–20 | 14–20 | 14–21 | 13–21 |
 | [23–27 May 2020](2020-05-27-Polis.html) | Polis | 14 | 11–15 | 11–16 | 11–16 | 10–17 |
@@ -71,14 +71,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 4% | 99.1% |  |
 | 15 | 11% | 95% |  |
 | 16 | 6% | 84% |  |
-| 17 | 40% | 78% | Last Result, Median |
-| 18 | 9% | 38% |  |
-| 19 | 8% | 30% |  |
-| 20 | 18% | 22% |  |
-| 21 | 1.4% | 3% |  |
+| 17 | 8% | 78% | Last Result |
+| 18 | 38% | 70% | Median |
+| 19 | 8% | 32% |  |
+| 20 | 19% | 24% |  |
+| 21 | 3% | 6% |  |
 | 22 | 0.9% | 2% |  |
-| 23 | 0.8% | 1.1% |  |
-| 24 | 0.3% | 0.3% |  |
-| 25 | 0% | 0% |  |
+| 23 | 0.7% | 1.3% |  |
+| 24 | 0.4% | 0.5% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
