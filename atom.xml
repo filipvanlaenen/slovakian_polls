@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovakian_polls</id>
   <title>All Registered Polls for the Národná rada</title>
-  <updated>2020-07-23T23:22:04.888645+02:00</updated>
+  <updated>2020-08-09T12:56:30.629441+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 7.2–10.7%, 16–24 seats</li><li>Sloboda a Solidarita: 7.6–11.1%, 16–23 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 19.5–24.5%, 41–55 seats</li><li>Slovenská národná strana: 2.8–5.1%, 0–11 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 6.5–9.9%, 14–22 seats</li><li>SME RODINA: 6.7–10.1%, 14–22 seats</li><li>MOST–HÍD: 0.6–1.9%, 0 seats</li><li>Kresťanskodemokratické hnutie: 2.9–5.2%, 0–10 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 4.3–7.1%, 0–17 seats</li><li>Progresívne Slovensko: 5.4–8.5%, 12–20 seats</li><li>Za ľudí: 3.5–6.1%, 0–12 seats</li><li>Dobrá voľba: 0.7–2.1%, 0 seats</li><li>VLASŤ: 0.5–1.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html"/>
+    <title>Opinion Poll by Polis, 22–27 July 2020</title>
+    <updated>2020-08-09T12:56:30.629441+02:00</updated>
+    <dc:date>2020-08-09T12:56:30.629441+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia: 8.9–12.8%, 24–28 seats</li><li>Sloboda a Solidarita: 7.7–11.4%, 19–24 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 21.0–26.2%, 55–57 seats</li><li>Slovenská národná strana: 0.8–2.3%, 0 seats</li><li>Kotleba–Ľudová strana Naše Slovensko: 6.4–9.7%, 17–21 seats</li><li>SME RODINA: 5.0–8.1%, 12–16 seats</li><li>MOST–HÍD: 0.5–1.8%, 0 seats</li><li>Kresťanskodemokratické hnutie: 2.1–4.3%, 0 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja: 1.7–3.7%, 0 seats</li><li>Progresívne Slovensko: 4.0–6.8%, 12–15 seats</li><li>SPOLU–Občianska Demokracia: 1.4–3.3%, 0 seats</li><li>Za ľudí: 2.9–5.4%, 0 seats</li><li>Dobrá voľba: 1.8–3.8%, 0 seats</li><li>VLASŤ: 1.9–3.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html</id>
@@ -71,5 +79,5 @@
     <updated>2020-05-05T18:30:49.840642+02:00</updated>
     <dc:date>2020-05-05T18:30:49.840642+02:00</dc:date>
   </entry>
-  <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
+  <dc:date>2020-08-09T12:56:30.629441+02:00</dc:date>
 </feed>
