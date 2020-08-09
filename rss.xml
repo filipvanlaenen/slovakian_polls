@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Thu, 23 Jul 2020 23:22:04 +0200</pubDate>
+    <pubDate>Sun, 09 Aug 2020 10:39:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Polis, 22–27 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 7.6–11.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 19.5–24.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 6.5–9.9%&lt;/li&gt;&lt;li&gt;SME RODINA: 6.7–10.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 2.9–5.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Za ľudí: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0.7–2.1%&lt;/li&gt;&lt;li&gt;VLASŤ: 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.png"
+        length="404329"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 10:39:37 +0200</pubDate>
+      <dc:date>2020-08-09T10:39:37.757731+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html#seats</link>
@@ -259,6 +269,6 @@
       <pubDate>Tue, 05 May 2020 08:34:48 +0200</pubDate>
       <dc:date>2020-05-05T08:34:48.295026+02:00</dc:date>
     </item>
-    <dc:date>2020-07-23T23:22:04.888645+02:00</dc:date>
+    <dc:date>2020-08-09T10:39:37.757731+02:00</dc:date>
   </channel>
 </rss>
