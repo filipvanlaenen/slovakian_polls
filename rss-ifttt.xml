@@ -222,12 +222,28 @@
       <dc:date>2020-05-05T18:30:49.840642+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 1–31 March 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Národná rada<br/>76 seats needed for a majority<br/>Opinion poll by FOCUS, 1–31 March 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS-seating-plan.png" length="648504" type="image/png"/>
+      <pubDate>Fri, 21 Aug 2020 20:30:36 +0200</pubDate>
+      <dc:date>2020-08-21T20:30:36.12375+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–31 March 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html#seats</link>
+      <description><![CDATA[Seat projections for the Národná rada<br/>76 seats needed for a majority<br/>Opinion poll by FOCUS, 1–31 March 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS-seats.png" length="339899" type="image/png"/>
+      <pubDate>Fri, 21 Aug 2020 20:30:36 +0200</pubDate>
+      <dc:date>2020-08-21T20:30:36.12375+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 1–31 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html</link>
       <description><![CDATA[Voting intentions for the Národná rada<br/>Opinion poll by FOCUS, 1–31 March 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-03-31-FOCUS.png" length="418115" type="image/png"/>
-      <pubDate>Fri, 21 Aug 2020 20:01:29 +0200</pubDate>
-      <dc:date>2020-08-21T20:01:29.657603+02:00</dc:date>
+      <pubDate>Fri, 21 Aug 2020 20:30:36 +0200</pubDate>
+      <dc:date>2020-08-21T20:30:36.12375+02:00</dc:date>
     </item>
   </channel>
 </rss>
