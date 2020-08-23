@@ -57,7 +57,7 @@ Last result: **13** seats (General Election of 29 February 2020)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 12 | 12 | 12–14 | 12–15 | 10–15 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 17 | 17 | 17–20 | 17–20 | 15–20 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 16 | 14–18 | 13–18 | 12–19 | 11–20 |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 13 | 11–13 | 11–13 | 10–15 | 0–15 |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 13 | 11–13 | 0–13 | 0–14 | 0–16 |
 
 ### Probability Mass Function
 
