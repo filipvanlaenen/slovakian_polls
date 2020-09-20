@@ -10,7 +10,8 @@ Last result: **2.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.5–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.5–2.8% |
+| [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.0% |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
@@ -20,7 +21,7 @@ Last result: **2.0%** (General Election of 29 February 2020)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
+| [18–21 March 2020](2020-03-21-FOCUS.html) | FOCUS | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
 
 ### Probability Mass Function
 
@@ -29,9 +30,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 1.3% | 100% |  |
-| 0.5–1.5% | 75% | 98.7% | Median |
-| 1.5–2.5% | 23% | 24% | Last Result |
-| 2.5–3.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 69% | 98.7% | Median |
+| 1.5–2.5% | 28% | 29% | Last Result |
+| 2.5–3.5% | 1.3% | 1.3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -44,6 +45,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
@@ -53,7 +55,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis |  |  |  |  |  |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [18–21 March 2020](2020-03-21-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
