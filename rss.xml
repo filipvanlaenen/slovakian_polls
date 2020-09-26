@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Fri, 25 Sep 2020 19:59:34 +0200</pubDate>
+    <pubDate>Sat, 26 Sep 2020 18:54:45 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median SK for RTVS, 14–18 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-09-18-MedianSK.html#seats</link>
@@ -70,14 +70,54 @@
       <dc:date>2020-09-25T19:59:34.141159+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Polis, 22–27 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 13–17 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 13–19 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 34–43 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 11–17 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 11–18 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–9 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–13 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 9–15 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0–10 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 24–33 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis-seats.png"
+        length="341447"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2020 18:10:37 +0200</pubDate>
+      <dc:date>2020-09-26T18:10:37.776725+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis, 22–27 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis-coalitions-seats.png"
+        length="991642"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2020 18:10:37 +0200</pubDate>
+      <dc:date>2020-09-26T18:10:37.776725+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Polis, 22–27 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 7.2–10.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 7.6–11.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 19.5–24.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 6.5–9.9%&lt;/li&gt;&lt;li&gt;SME RODINA: 6.7–10.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 2.9–5.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 5.4–8.5%&lt;/li&gt;&lt;li&gt;Za ľudí: 3.5–6.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0.7–2.1%&lt;/li&gt;&lt;li&gt;VLASŤ: 0.5–1.6%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 13.9–18.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-27-Polis.png"
         length="441314"
         type="image/png"/>
-      <pubDate>Fri, 25 Sep 2020 18:14:26 +0200</pubDate>
-      <dc:date>2020-09-25T18:14:26.056177+02:00</dc:date>
+      <pubDate>Sat, 26 Sep 2020 18:10:37 +0200</pubDate>
+      <dc:date>2020-09-26T18:10:37.776725+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17–24 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 15–25 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 38–50 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 12–19 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 9–15 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–14 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0–10 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 27–37 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO-seats.png"
+        length="352029"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2020 18:54:45 +0200</pubDate>
+      <dc:date>2020-09-26T18:54:45.852435+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO-coalitions-seats.png"
+        length="1028001"
+        type="image/png"/>
+      <pubDate>Sat, 26 Sep 2020 18:54:45 +0200</pubDate>
+      <dc:date>2020-09-26T18:54:45.852435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 7–17 July 2020 – Voting Intentions</title>
@@ -86,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-07-17-AKO.png"
         length="456142"
         type="image/png"/>
-      <pubDate>Fri, 25 Sep 2020 18:30:59 +0200</pubDate>
-      <dc:date>2020-09-25T18:30:59.187502+02:00</dc:date>
+      <pubDate>Sat, 26 Sep 2020 18:54:45 +0200</pubDate>
+      <dc:date>2020-09-26T18:54:45.852435+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 June 2020 – Seat Projections for the Parties</title>
@@ -329,6 +369,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2020-09-25T19:59:34.141159+02:00</dc:date>
+    <dc:date>2020-09-26T18:54:45.852435+02:00</dc:date>
   </channel>
 </rss>
