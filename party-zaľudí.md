@@ -48,11 +48,11 @@ Last result: **12** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–11 |
+| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–10 |
-| [22–27 July 2020](2020-07-27-Polis.html) | Polis | 0 | 0 | 0–10 | 0–11 | 0–11 |
-| [7–17 July 2020](2020-07-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–11 |
+| [22–27 July 2020](2020-07-27-Polis.html) | Polis | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
+| [7–17 July 2020](2020-07-17-AKO.html) | AKO | 0 | 0–10 | 0–10 | 0–10 | 0–11 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–10 |
 | [5–10 June 2020](2020-06-10-Polis.html) | Polis | 0 | 0–11 | 0–11 | 0–11 | 0–13 |
 | [23–27 May 2020](2020-05-27-Polis.html) | Polis | 0 | 0 | 0–9 | 0–10 | 0–10 |
@@ -70,19 +70,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0% | 2% |  |
-| 4 | 0% | 2% |  |
-| 5 | 0% | 2% |  |
-| 6 | 0% | 2% |  |
-| 7 | 0% | 2% |  |
-| 8 | 0% | 2% |  |
-| 9 | 0.3% | 2% |  |
-| 10 | 0.5% | 2% |  |
-| 11 | 1.3% | 1.3% |  |
-| 12 | 0.1% | 0.1% | Last Result |
+| 0 | 87% | 100% | Median |
+| 1 | 0% | 13% |  |
+| 2 | 0% | 13% |  |
+| 3 | 0% | 13% |  |
+| 4 | 0% | 13% |  |
+| 5 | 0% | 13% |  |
+| 6 | 0% | 13% |  |
+| 7 | 0% | 13% |  |
+| 8 | 0% | 13% |  |
+| 9 | 7% | 13% |  |
+| 10 | 5% | 6% |  |
+| 11 | 0.6% | 0.7% |  |
+| 12 | 0% | 0.1% | Last Result |
 | 13 | 0% | 0% |  |
 
 
