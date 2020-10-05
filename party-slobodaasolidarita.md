@@ -53,11 +53,11 @@ Last result: **13** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–23 | 15–25 | 15–25 | 13–26 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 15–25 | 15–25 | 14–26 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 22 | 21–25 | 20–25 | 19–25 | 17–27 |
 | [4–9 September 2020](2020-09-09-Polis.html) | Polis | 18 | 18–24 | 18–25 | 18–25 | 17–25 |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 20 | 17–21 | 17–21 | 17–21 | 14–22 |
-| [21–26 August 2020](2020-08-26-Actly.html) | Actly | 19 | 15–20 | 14–21 | 14–22 | 12–23 |
+| [21–26 August 2020](2020-08-26-Actly.html) | Actly | 20 | 16–20 | 16–20 | 15–21 | 14–22 |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 16 | 15–19 | 15–19 | 13–19 | 13–20 |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 18 | 15–21 | 15–25 | 15–25 | 14–25 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 16 | 16–19 | 14–19 | 14–20 | 14–22 |
@@ -77,15 +77,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.4% | 100% |  |
-| 13 | 0.2% | 99.6% | Last Result |
-| 14 | 2% | 99.4% |  |
-| 15 | 5% | 98% |  |
-| 16 | 3% | 93% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 0.1% | 99.9% | Last Result |
+| 14 | 0.4% | 99.8% |  |
+| 15 | 5% | 99.4% |  |
+| 16 | 3% | 95% |  |
 | 17 | 9% | 91% |  |
-| 18 | 19% | 82% |  |
-| 19 | 13% | 63% | Median |
-| 20 | 16% | 50% |  |
+| 18 | 20% | 83% |  |
+| 19 | 4% | 63% |  |
+| 20 | 26% | 59% | Median |
 | 21 | 11% | 33% |  |
 | 22 | 11% | 23% |  |
 | 23 | 2% | 11% |  |
