@@ -10,7 +10,9 @@ Last result: **2.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.8% | 0.8–3.0% | 0.7–3.2% | 0.5–3.6% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.9–2.3% | 0.8–2.6% | 0.7–2.7% | 0.5–3.1% |
+| [7–12 October 2020](2020-10-12-Polis.html) | Polis | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
+| [1–9 October 2020](2020-10-09-AKO.html) | AKO | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 September 2020](2020-09-09-Polis.html) | Polis | 2.5% | 2.0–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.0% |
@@ -32,11 +34,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.8% | 100% |  |
-| 0.5–1.5% | 41% | 99.2% |  |
-| 1.5–2.5% | 41% | 58% | Last Result, Median |
-| 2.5–3.5% | 16% | 17% |  |
-| 3.5–4.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 47% | 99.4% |  |
+| 1.5–2.5% | 48% | 53% | Last Result, Median |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -49,6 +51,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
+| [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS |  |  |  |  |  |
 | [4–9 September 2020](2020-09-09-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
