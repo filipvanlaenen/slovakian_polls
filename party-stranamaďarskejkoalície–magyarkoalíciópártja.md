@@ -11,6 +11,7 @@ Last result: **3.9%** (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 2.0–5.4% | 1.8–5.8% | 1.7–6.1% | 1.4–6.7% |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 3.2% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.9% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 5.2% | 4.5–6.2% | 4.3–6.4% | 4.1–6.6% | 3.8–7.1% |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -54,6 +55,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–10 | 0–13 |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 9 | 0–10 | 0–11 | 0–13 | 0–13 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |

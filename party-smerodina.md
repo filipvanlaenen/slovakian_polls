@@ -10,7 +10,8 @@ Last result: **8.2%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 7.7–10.5% | 7.4–11.0% | 7.2–11.4% | 6.7–12.2% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.1–10.4% | 6.7–10.9% | 6.4–11.3% | 5.8–12.1% |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.9–9.1% | 5.4–9.7% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 8.2% | 7.3–9.3% | 7.0–9.6% | 6.8–9.9% | 6.4–10.5% |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 8.8% | 7.7–10.1% | 7.4–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.1–10.7% | 6.7–11.3% |
@@ -34,14 +35,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.3% | 100% |  |
-| 6.5–7.5% | 6% | 99.7% |  |
-| 7.5–8.5% | 27% | 93% | Last Result |
-| 8.5–9.5% | 35% | 66% | Median |
-| 9.5–10.5% | 21% | 31% |  |
-| 10.5–11.5% | 8% | 10% |  |
-| 11.5–12.5% | 2% | 2% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 3% | 99.8% |  |
+| 6.5–7.5% | 15% | 97% |  |
+| 7.5–8.5% | 29% | 82% | Last Result |
+| 8.5–9.5% | 28% | 53% | Median |
+| 9.5–10.5% | 16% | 25% |  |
+| 10.5–11.5% | 7% | 8% |  |
+| 11.5–12.5% | 1.5% | 2% |  |
 | 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -54,7 +56,8 @@ Last result: **17** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–21 | 13–22 | 12–23 |
+| N/A | [Poll Average](average.html) | 16 | 13–21 | 12–21 | 12–22 | 9–23 |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 13 | 12–15 | 11–15 | 9–15 | 9–18 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 14 | 13–16 | 12–16 | 12–17 | 12–20 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 16 | 15–18 | 14–22 | 14–22 | 14–22 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 17 | 14–19 | 14–19 | 13–20 | 12–20 |
@@ -80,16 +83,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 2% | 99.9% |  |
-| 13 | 7% | 98% |  |
-| 14 | 11% | 91% |  |
-| 15 | 9% | 79% |  |
-| 16 | 18% | 70% |  |
-| 17 | 10% | 52% | Last Result, Median |
-| 18 | 15% | 42% |  |
-| 19 | 10% | 27% |  |
-| 20 | 3% | 17% |  |
+| 9 | 0.6% | 100% |  |
+| 10 | 0.2% | 99.4% |  |
+| 11 | 1.0% | 99.2% |  |
+| 12 | 7% | 98% |  |
+| 13 | 13% | 91% |  |
+| 14 | 12% | 78% |  |
+| 15 | 14% | 65% |  |
+| 16 | 12% | 51% | Median |
+| 17 | 10% | 39% | Last Result |
+| 18 | 5% | 29% |  |
+| 19 | 8% | 25% |  |
+| 20 | 2% | 17% |  |
 | 21 | 11% | 14% |  |
 | 22 | 2% | 3% |  |
 | 23 | 0.5% | 0.9% |  |
