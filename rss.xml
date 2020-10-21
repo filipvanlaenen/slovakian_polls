@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Sun, 18 Oct 2020 17:12:39 +0200</pubDate>
+    <pubDate>Wed, 21 Oct 2020 17:37:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–15 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 16–22 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 15–24 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 24–34 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 14–21 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 9–15 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–12 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 0–13 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0–12 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 30–40 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS-seats.png"
+        length="366299"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 17:37:48 +0200</pubDate>
+      <dc:date>2020-10-21T17:37:48.410251+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–15 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS-coalitions-seats.png"
+        length="1047092"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 17:37:48 +0200</pubDate>
+      <dc:date>2020-10-21T17:37:48.410251+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–15 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 8.9–12.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 13.0–17.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 1.4–3.2%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 8.1–11.8%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.9–9.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 4.2–7.0%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Za ľudí: 3.7–6.3%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 1.4–3.2%&lt;/li&gt;&lt;li&gt;VLASŤ: 1.0–2.6%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 16.4–21.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-10-15-FOCUS.png"
+        length="465336"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 17:37:48 +0200</pubDate>
+      <dc:date>2020-10-21T17:37:48.410251+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Polis, 7–12 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-10-12-Polis.html#seats</link>
@@ -489,6 +519,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2020-10-18T17:12:39.774937+02:00</dc:date>
+    <dc:date>2020-10-21T17:37:48.410251+02:00</dc:date>
   </channel>
 </rss>
