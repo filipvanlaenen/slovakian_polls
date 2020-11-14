@@ -55,7 +55,7 @@ Last result: **12** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
-| [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0–10 |
+| [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 0 | 0–10 | 0–11 | 0–12 | 0–12 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0 | 0–10 | 0–10 | 0–10 | 0–10 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0–10 | 0–10 | 0–10 |

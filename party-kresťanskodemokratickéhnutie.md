@@ -55,8 +55,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–11 | 0–15 |
-| [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0–11 | 0–12 | 0–15 | 0–15 |
+| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–12 | 0–12 |
+| [21–26 October 2020](2020-10-26-Actly.html) | Actly | 9 | 0–12 | 0–12 | 0–12 | 0–13 |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
@@ -83,22 +83,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 0% | 28% |  |
-| 3 | 0% | 28% |  |
-| 4 | 0% | 28% |  |
-| 5 | 0% | 28% |  |
-| 6 | 0% | 28% |  |
-| 7 | 0% | 28% |  |
-| 8 | 0% | 28% |  |
-| 9 | 11% | 28% |  |
-| 10 | 8% | 17% |  |
-| 11 | 7% | 9% |  |
-| 12 | 1.2% | 2% |  |
-| 13 | 0.2% | 1.0% |  |
-| 14 | 0.1% | 0.8% |  |
-| 15 | 0.7% | 0.7% |  |
-| 16 | 0% | 0% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 0% | 37% |  |
+| 2 | 0% | 37% |  |
+| 3 | 0% | 37% |  |
+| 4 | 0% | 37% |  |
+| 5 | 0% | 37% |  |
+| 6 | 0% | 37% |  |
+| 7 | 0% | 37% |  |
+| 8 | 0% | 37% |  |
+| 9 | 14% | 37% |  |
+| 10 | 7% | 22% |  |
+| 11 | 6% | 15% |  |
+| 12 | 9% | 9% |  |
+| 13 | 0.4% | 0.4% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
