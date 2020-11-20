@@ -10,7 +10,8 @@ Last result: **7.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.3–2.0% | 0.2–2.3% | 0.2–2.5% | 0.1–2.9% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.3–2.1% | 0.2–2.4% | 0.2–2.6% | 0.1–2.9% |
+| [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0.0% | N/A | N/A | N/A | N/A |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0.0% | N/A | N/A | N/A | N/A |
@@ -36,10 +37,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 20% | 100% |  |
-| 0.5–1.5% | 49% | 80% | Median |
-| 1.5–2.5% | 29% | 31% |  |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 27% | 100% |  |
+| 0.5–1.5% | 42% | 73% | Median |
+| 1.5–2.5% | 28% | 31% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -55,6 +56,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS |  |  |  |  |  |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis |  |  |  |  |  |
