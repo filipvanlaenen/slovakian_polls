@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Sat, 14 Nov 2020 09:47:37 +0100</pubDate>
+    <pubDate>Fri, 20 Nov 2020 19:47:49 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 6–11 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 10.6–14.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 14.4–19.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 5.5–8.6%&lt;/li&gt;&lt;li&gt;SME RODINA: 4.5–7.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 3.3–5.9%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.3–4.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 5.8–9.0%&lt;/li&gt;&lt;li&gt;Za ľudí: 3.1–5.5%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 1.5–3.4%&lt;/li&gt;&lt;li&gt;VLASŤ: 0.9–2.4%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 18.0–22.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.png"
+        length="443976"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2020 19:47:49 +0100</pubDate>
+      <dc:date>2020-11-20T19:47:49.142384+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Actly, 21–26 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-10-26-Actly.html#seats</link>
@@ -549,6 +559,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2020-11-14T09:47:37.191342+01:00</dc:date>
+    <dc:date>2020-11-20T19:47:49.142384+01:00</dc:date>
   </channel>
 </rss>
