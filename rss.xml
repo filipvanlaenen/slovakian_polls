@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Fri, 20 Nov 2020 19:47:49 +0100</pubDate>
+    <pubDate>Fri, 20 Nov 2020 23:19:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 6–11 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 0–15 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 20–30 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 27–38 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 11–17 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 0–14 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD: 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–10 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 12–17 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0–10 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 36–47 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK-seats.png"
+        length="351026"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2020 23:19:36 +0100</pubDate>
+      <dc:date>2020-11-20T23:19:36.517029+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 6–11 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK-coalitions-seats.png"
+        length="1121001"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2020 23:19:36 +0100</pubDate>
+      <dc:date>2020-11-20T23:19:36.517029+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Median SK for RTVS, 6–11 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2020-11-11-MedianSK.png"
         length="443976"
         type="image/png"/>
-      <pubDate>Fri, 20 Nov 2020 19:47:49 +0100</pubDate>
-      <dc:date>2020-11-20T19:47:49.142384+01:00</dc:date>
+      <pubDate>Fri, 20 Nov 2020 23:19:36 +0100</pubDate>
+      <dc:date>2020-11-20T23:19:36.517029+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Actly, 21–26 October 2020 – Seat Projections for the Parties</title>
@@ -559,6 +579,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2020-11-20T19:47:49.142384+01:00</dc:date>
+    <dc:date>2020-11-20T23:19:36.517029+01:00</dc:date>
   </channel>
 </rss>
