@@ -13,6 +13,7 @@ Last result: **4.6%** (General Election of 29 February 2020)
 | N/A | [Poll Average](average.html) | 4.4% | 3.0–5.6% | 2.7–6.0% | 2.5–6.3% | 2.1–6.9% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 4.4% | 3.7–5.4% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [15–23 October 2020](2020-10-23-Polis.html) | Polis | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 4.1% | 3.4–4.9% | 3.2–5.1% | 3.1–5.3% | 2.8–5.8% |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -40,7 +41,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
 | 2.5–3.5% | 17% | 97% |  |
-| 3.5–4.5% | 35% | 79% | Median |
+| 3.5–4.5% | 34% | 79% | Median |
 | 4.5–5.5% | 33% | 45% | Last Result |
 | 5.5–6.5% | 11% | 12% |  |
 | 6.5–7.5% | 1.2% | 1.2% |  |
@@ -59,6 +60,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–12 | 0–12 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0–10 | 0–10 | 0–10 | 0–12 |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 9 | 0–12 | 0–12 | 0–12 | 0–13 |
+| [15–23 October 2020](2020-10-23-Polis.html) | Polis | 0 | 0–9 | 0–9 | 0–10 | 0–10 |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 9 | 0–11 | 0–11 | 0–12 | 0–13 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
@@ -85,16 +87,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 64% | 100% | Last Result, Median |
-| 1 | 0% | 36% |  |
-| 2 | 0% | 36% |  |
-| 3 | 0% | 36% |  |
-| 4 | 0% | 36% |  |
-| 5 | 0% | 36% |  |
-| 6 | 0% | 36% |  |
-| 7 | 0% | 36% |  |
-| 8 | 0% | 36% |  |
-| 9 | 14% | 36% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 0% | 34% |  |
+| 4 | 0% | 34% |  |
+| 5 | 0% | 34% |  |
+| 6 | 0% | 34% |  |
+| 7 | 0% | 34% |  |
+| 8 | 0% | 34% |  |
+| 9 | 12% | 34% |  |
 | 10 | 7% | 22% |  |
 | 11 | 6% | 15% |  |
 | 12 | 9% | 9% |  |
