@@ -10,9 +10,10 @@ Last result: **7.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.6% | 4.6–8.1% | 4.4–8.4% | 4.0–9.1% |
-| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 6.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 6.2% | 5.0–7.6% | 4.7–8.0% | 4.5–8.4% | 4.1–9.1% |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 4.0–7.7% |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 5.9% | 5.0–7.0% | 4.8–7.2% | 4.6–7.5% | 4.2–8.1% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 7.3% | 6.3–8.4% | 6.1–8.7% | 5.8–9.0% | 5.4–9.6% |
@@ -43,10 +44,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 4% | 100% |  |
-| 4.5–5.5% | 27% | 96% |  |
-| 5.5–6.5% | 37% | 69% | Median |
-| 6.5–7.5% | 21% | 32% | Last Result |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 23% | 97% |  |
+| 5.5–6.5% | 38% | 74% | Median |
+| 6.5–7.5% | 25% | 36% | Last Result |
 | 7.5–8.5% | 9% | 11% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -61,9 +62,10 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 0–15 | 0–19 | 0–19 | 0–19 |
-| [17–19 December 2020](2020-12-19-AKO.html) | AKO |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 10–15 | 0–19 | 0–19 | 0–19 |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 11 | 11 | 11–12 | 11–14 | 9–14 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 12 | 10–13 | 0–13 | 0–13 | 0–15 |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly | 11 | 0–13 | 0–13 | 0–14 | 0–15 |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 11 | 10–13 | 0–14 | 0–14 | 0–14 |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 12 | 0–13 | 0–13 | 0–15 | 0–15 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 14 | 13–19 | 13–19 | 12–19 | 10–19 |
@@ -95,26 +97,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 20% | 100% | Last Result |
-| 1 | 0% | 80% |  |
-| 2 | 0% | 80% |  |
-| 3 | 0% | 80% |  |
-| 4 | 0% | 80% |  |
-| 5 | 0% | 80% |  |
-| 6 | 0% | 80% |  |
-| 7 | 0% | 80% |  |
-| 8 | 0% | 80% |  |
-| 9 | 0.5% | 80% |  |
-| 10 | 12% | 80% |  |
-| 11 | 23% | 67% | Median |
-| 12 | 5% | 45% |  |
-| 13 | 20% | 40% |  |
-| 14 | 7% | 20% |  |
-| 15 | 4% | 13% |  |
-| 16 | 0.9% | 9% |  |
-| 17 | 1.2% | 8% |  |
-| 18 | 0.1% | 7% |  |
-| 19 | 7% | 7% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0% | 93% |  |
+| 2 | 0% | 93% |  |
+| 3 | 0% | 93% |  |
+| 4 | 0% | 93% |  |
+| 5 | 0% | 93% |  |
+| 6 | 0% | 93% |  |
+| 7 | 0% | 93% |  |
+| 8 | 0% | 93% |  |
+| 9 | 1.4% | 93% |  |
+| 10 | 12% | 92% |  |
+| 11 | 39% | 79% | Median |
+| 12 | 7% | 41% |  |
+| 13 | 17% | 34% |  |
+| 14 | 7% | 17% |  |
+| 15 | 3% | 10% |  |
+| 16 | 0.8% | 7% |  |
+| 17 | 0.9% | 6% |  |
+| 18 | 0.1% | 5% |  |
+| 19 | 5% | 5% |  |
 | 20 | 0% | 0% |  |
 
 

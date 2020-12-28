@@ -10,9 +10,10 @@ Last result: **4.6%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.7% |
-| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 4.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.8% | 3.5–6.2% | 3.3–6.5% | 2.9–7.0% |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 4.4% | 3.7–5.4% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
@@ -42,13 +43,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 7% | 99.9% |  |
-| 3.5–4.5% | 41% | 93% |  |
-| 4.5–5.5% | 41% | 52% | Last Result, Median |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 0.8% | 0.8% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 36% | 94% |  |
+| 4.5–5.5% | 41% | 59% | Last Result, Median |
+| 5.5–6.5% | 15% | 17% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -59,9 +61,10 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–12 | 0–12 | 0–13 |
-| [17–19 December 2020](2020-12-19-AKO.html) | AKO |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–12 | 0–13 | 0–14 |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0 | 0 | 0–10 | 0–11 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 10 | 0–11 | 0–13 | 0–13 | 0–13 |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly | 10 | 0–12 | 0–13 | 0–14 | 0–14 |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 0 | 0 | 0–10 | 0–10 | 0–10 |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 0 | 0–12 | 0–12 | 0–12 | 0–14 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0–10 | 0–10 | 0–10 | 0–12 |
@@ -93,20 +96,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 54% | 100% | Last Result, Median |
-| 1 | 0% | 46% |  |
-| 2 | 0% | 46% |  |
-| 3 | 0% | 46% |  |
-| 4 | 0% | 46% |  |
-| 5 | 0% | 46% |  |
-| 6 | 0% | 46% |  |
-| 7 | 0% | 46% |  |
-| 8 | 0% | 46% |  |
-| 9 | 8% | 46% |  |
-| 10 | 20% | 39% |  |
-| 11 | 7% | 19% |  |
-| 12 | 10% | 12% |  |
-| 13 | 2% | 2% |  |
-| 14 | 0% | 0% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 0% | 38% |  |
+| 2 | 0% | 38% |  |
+| 3 | 0% | 38% |  |
+| 4 | 0% | 38% |  |
+| 5 | 0% | 38% |  |
+| 6 | 0% | 38% |  |
+| 7 | 0% | 38% |  |
+| 8 | 0% | 38% |  |
+| 9 | 2% | 38% |  |
+| 10 | 21% | 36% |  |
+| 11 | 9% | 15% |  |
+| 12 | 3% | 6% |  |
+| 13 | 2% | 3% |  |
+| 14 | 0.8% | 0.9% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
