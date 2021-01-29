@@ -10,11 +10,11 @@ Last result: **3.9%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.2–5.6% | 1.0–6.0% | 0.9–6.3% | 0.7–6.9% |
+| N/A | [Poll Average](average.html) | 3.3% | 1.3–5.4% | 1.1–5.8% | 1.0–6.2% | 0.7–6.8% |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 3.1% | N/A | N/A | N/A | N/A |
-| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 5.3% | N/A | N/A | N/A | N/A |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.8–7.3% |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly | 0.0% | N/A | N/A | N/A | N/A |
@@ -47,14 +47,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 23% | 99.9% |  |
-| 1.5–2.5% | 12% | 77% |  |
-| 2.5–3.5% | 19% | 65% | Median |
-| 3.5–4.5% | 15% | 45% | Last Result |
-| 4.5–5.5% | 18% | 30% |  |
-| 5.5–6.5% | 10% | 11% |  |
-| 6.5–7.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 17% | 100% |  |
+| 1.5–2.5% | 12% | 83% |  |
+| 2.5–3.5% | 31% | 71% | Median |
+| 3.5–4.5% | 17% | 40% | Last Result |
+| 4.5–5.5% | 14% | 23% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -66,11 +66,11 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–12 | 0–12 |
-| [16–20 January 2021](2021-01-20-Polis.html) | Polis | 9 | 0–11 | 0–12 | 0–12 | 0–14 |
-| [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0–11 | 0–11 |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS |  |  |  |  |  |
-| [19–22 December 2020](2020-12-22-Polis.html) | Polis |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
+| [16–20 January 2021](2021-01-20-Polis.html) | Polis | 9 | 9–11 | 0–11 | 0–11 | 0–13 |
+| [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 9 | 0–9 | 0–9 | 0–9 | 0–9 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly |  |  |  |  |  |
@@ -105,21 +105,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 0% | 26% |  |
-| 4 | 0% | 26% |  |
-| 5 | 0% | 26% |  |
-| 6 | 0% | 26% |  |
-| 7 | 0% | 26% |  |
-| 8 | 0% | 26% |  |
-| 9 | 15% | 26% |  |
-| 10 | 6% | 11% |  |
-| 11 | 2% | 5% |  |
-| 12 | 3% | 3% |  |
-| 13 | 0.1% | 0.4% |  |
-| 14 | 0.3% | 0.3% |  |
+| 0 | 77% | 100% | Last Result, Median |
+| 1 | 0% | 23% |  |
+| 2 | 0% | 23% |  |
+| 3 | 0% | 23% |  |
+| 4 | 0% | 23% |  |
+| 5 | 0% | 23% |  |
+| 6 | 0% | 23% |  |
+| 7 | 0% | 23% |  |
+| 8 | 0% | 23% |  |
+| 9 | 17% | 23% |  |
+| 10 | 3% | 6% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.4% | 0.5% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 

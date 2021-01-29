@@ -10,11 +10,11 @@ Last result: **3.2%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.9–3.1% | 0.8–3.4% | 0.7–3.7% | 0.5–4.1% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.9–3.0% | 0.8–3.3% | 0.7–3.6% | 0.5–4.1% |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 1.4% | N/A | N/A | N/A | N/A |
-| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 1.1% | N/A | N/A | N/A | N/A |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly | 0.0% | N/A | N/A | N/A | N/A |
@@ -47,11 +47,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.7% | 100% |  |
-| 0.5–1.5% | 43% | 99.3% |  |
-| 1.5–2.5% | 31% | 56% | Median |
-| 2.5–3.5% | 22% | 25% | Last Result |
-| 3.5–4.5% | 3% | 4% |  |
+| 0.0–0.5% | 0.6% | 100% |  |
+| 0.5–1.5% | 47% | 99.4% |  |
+| 1.5–2.5% | 33% | 52% | Median |
+| 2.5–3.5% | 16% | 19% | Last Result |
+| 3.5–4.5% | 3% | 3% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -67,8 +67,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS |  |  |  |  |  |
-| [19–22 December 2020](2020-12-22-Polis.html) | Polis |  |  |  |  |  |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly |  |  |  |  |  |
