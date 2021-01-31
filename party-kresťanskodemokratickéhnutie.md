@@ -70,7 +70,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 0 | 0–10 | 0–10 | 0–10 | 0–10 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0–11 | 0–11 | 0–11 |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0–9 | 0–10 |
-| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 11 | 9–11 | 9–11 | 9–11 | 0–11 |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0–11 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0 | 0 | 0–10 | 0–11 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 10 | 0–11 | 0–13 | 0–13 | 0–13 |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly | 10 | 0–12 | 0–13 | 0–14 | 0–14 |
