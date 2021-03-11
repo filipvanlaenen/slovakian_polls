@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–10 | 0–12 |
-| [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–10 |
+| [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 10 | 0–10 | 0–11 | 0–12 | 0–13 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 9 | 9–11 | 0–11 | 0–11 | 0–13 |
