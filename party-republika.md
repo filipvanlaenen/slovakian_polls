@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| N/A | [Poll Average](average.html) | 4.4% | 0.3–5.6% | 0.2–5.9% | 0.2–6.2% | 0.1–6.7% |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.6–6.2% | 3.2–6.7% |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
-| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0.3% | N/A | N/A | N/A | N/A |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0.0% | N/A | N/A | N/A | N/A |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,14 +53,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 31% | 98% |  |
-| 4.5–5.5% | 50% | 67% | Median |
-| 5.5–6.5% | 16% | 17% |  |
-| 6.5–7.5% | 1.2% | 1.2% |  |
+| 0.0–0.5% | 27% | 100% | Last Result |
+| 0.5–1.5% | 7% | 73% |  |
+| 1.5–2.5% | 0% | 67% |  |
+| 2.5–3.5% | 1.2% | 67% |  |
+| 3.5–4.5% | 21% | 65% | Median |
+| 4.5–5.5% | 34% | 45% |  |
+| 5.5–6.5% | 10% | 11% |  |
+| 6.5–7.5% | 0.8% | 0.8% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -72,10 +72,10 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–12 | 0–13 | 0–13 |
+| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–12 | 0–12 | 0–13 |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 12 | 0–12 | 0–13 | 0–13 | 0–13 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0–9 | 0–9 | 0–11 | 0–12 |
-| [8–12 March 2021](2021-03-12-AKO.html) | AKO |  |  |  |  |  |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO |  |  |  |  |  |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA |  |  |  |  |  |
@@ -117,20 +117,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Last Result, Median |
-| 1 | 0% | 43% |  |
-| 2 | 0% | 43% |  |
-| 3 | 0% | 43% |  |
-| 4 | 0% | 43% |  |
-| 5 | 0% | 43% |  |
-| 6 | 0% | 43% |  |
-| 7 | 0% | 43% |  |
-| 8 | 0% | 43% |  |
-| 9 | 6% | 43% |  |
-| 10 | 4% | 36% |  |
-| 11 | 2% | 32% |  |
-| 12 | 27% | 30% |  |
-| 13 | 3% | 3% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 0% | 28% |  |
+| 3 | 0% | 28% |  |
+| 4 | 0% | 28% |  |
+| 5 | 0% | 28% |  |
+| 6 | 0% | 28% |  |
+| 7 | 0% | 28% |  |
+| 8 | 0% | 28% |  |
+| 9 | 4% | 28% |  |
+| 10 | 3% | 24% |  |
+| 11 | 1.3% | 21% |  |
+| 12 | 18% | 20% |  |
+| 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
 
