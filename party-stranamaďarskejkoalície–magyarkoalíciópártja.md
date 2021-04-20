@@ -73,9 +73,9 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–11 | 0–15 |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0 | 0–10 | 0–11 | 0–14 | 0–15 |
-| [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–11 | 0–13 |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0 | 0–11 | 0–11 | 0–12 | 0–15 |
+| [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0–11 |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
@@ -118,22 +118,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 0% | 19% |  |
-| 5 | 0% | 19% |  |
-| 6 | 0% | 19% |  |
-| 7 | 0% | 19% |  |
-| 8 | 0% | 19% |  |
-| 9 | 2% | 19% |  |
-| 10 | 13% | 17% |  |
-| 11 | 2% | 4% |  |
-| 12 | 0.5% | 2% |  |
-| 13 | 0.5% | 1.2% |  |
-| 14 | 0.1% | 0.6% |  |
-| 15 | 0.5% | 0.5% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 0% | 20% |  |
+| 2 | 0% | 20% |  |
+| 3 | 0% | 20% |  |
+| 4 | 0% | 20% |  |
+| 5 | 0% | 20% |  |
+| 6 | 0% | 20% |  |
+| 7 | 0% | 20% |  |
+| 8 | 0% | 20% |  |
+| 9 | 2% | 20% |  |
+| 10 | 12% | 18% |  |
+| 11 | 5% | 7% |  |
+| 12 | 0.6% | 1.4% |  |
+| 13 | 0.6% | 0.8% |  |
+| 14 | 0.1% | 0.2% |  |
+| 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
 
