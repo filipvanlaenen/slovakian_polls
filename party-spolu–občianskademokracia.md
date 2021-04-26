@@ -10,8 +10,9 @@ Last result: **7.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.5% | 0.2–1.7% | 0.2–1.9% | 0.1–2.2% |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.6–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
+| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0.8% | 0.5–1.3% | 0.5–1.5% | 0.4–1.6% | 0.3–1.9% |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
@@ -53,9 +54,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 23% | 100% |  |
-| 0.5–1.5% | 68% | 77% | Median |
-| 1.5–2.5% | 9% | 9% |  |
+| 0.0–0.5% | 5% | 100% |  |
+| 0.5–1.5% | 85% | 95% | Median |
+| 1.5–2.5% | 10% | 10% |  |
 | 2.5–3.5% | 0.1% | 0.1% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -72,7 +73,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |

@@ -10,8 +10,9 @@ Last result: **3.2%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.4–3.8% | 1.2–4.1% | 1.1–4.3% | 0.8–4.8% |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.0–4.0% | 1.7–4.3% | 1.6–4.5% | 1.3–5.0% |
+| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 3.4% | 2.7–4.3% | 2.6–4.5% | 2.4–4.7% | 2.1–5.2% |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
@@ -54,12 +55,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 14% | 100% |  |
-| 1.5–2.5% | 29% | 86% |  |
-| 2.5–3.5% | 39% | 57% | Last Result, Median |
-| 3.5–4.5% | 16% | 18% |  |
-| 4.5–5.5% | 1.2% | 1.2% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 24% | 98% |  |
+| 2.5–3.5% | 47% | 74% | Last Result, Median |
+| 3.5–4.5% | 24% | 26% |  |
+| 4.5–5.5% | 2% | 2% |  |
 | 5.5–6.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,7 +73,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
@@ -126,6 +129,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 0.1% |  |
 | 9 | 0% | 0.1% |  |
 | 10 | 0% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
 
 
