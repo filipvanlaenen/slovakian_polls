@@ -73,9 +73,9 @@ Last result: **12** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–13 | 0–13 | 0–13 | 0–13 |
-| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0–10 | 0–10 | 0–10 | 0–11 |
-| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–12 | 0–13 | 0–13 | 0–13 |
+| [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0–10 | 0–12 | 0–12 | 0–12 |
+| [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 10 | 0–11 | 0–11 | 0–11 | 0–13 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0–12 | 0–12 | 0–12 | 0–13 |
@@ -119,21 +119,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Median |
-| 1 | 0% | 26% |  |
-| 2 | 0% | 26% |  |
-| 3 | 0% | 26% |  |
-| 4 | 0% | 26% |  |
-| 5 | 0% | 26% |  |
-| 6 | 0% | 26% |  |
-| 7 | 0% | 26% |  |
-| 8 | 0% | 26% |  |
-| 9 | 2% | 26% |  |
-| 10 | 8% | 23% |  |
-| 11 | 2% | 16% |  |
-| 12 | 0.4% | 13% | Last Result |
-| 13 | 13% | 13% |  |
-| 14 | 0.1% | 0.1% |  |
+| 0 | 59% | 100% | Median |
+| 1 | 0% | 41% |  |
+| 2 | 0% | 41% |  |
+| 3 | 0% | 41% |  |
+| 4 | 0% | 41% |  |
+| 5 | 0% | 41% |  |
+| 6 | 0% | 41% |  |
+| 7 | 0% | 41% |  |
+| 8 | 0% | 41% |  |
+| 9 | 3% | 41% |  |
+| 10 | 13% | 39% |  |
+| 11 | 14% | 26% |  |
+| 12 | 2% | 12% | Last Result |
+| 13 | 10% | 10% |  |
+| 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
 
