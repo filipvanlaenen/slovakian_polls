@@ -10,7 +10,8 @@ Last result: **5.8%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.2–5.3% | 3.0–5.6% | 2.8–5.9% | 2.5–6.5% |
+| N/A | [Poll Average](average.html) | 3.7% | 3.0–4.5% | 2.8–4.8% | 2.6–5.0% | 2.3–5.4% |
+| [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
 | [13–17 May 2021](2021-05-17-AKO.html) | AKO | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.5% |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
@@ -56,13 +57,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 23% | 99.4% |  |
-| 3.5–4.5% | 47% | 77% | Median |
-| 4.5–5.5% | 24% | 30% |  |
-| 5.5–6.5% | 5% | 6% | Last Result |
-| 6.5–7.5% | 0.4% | 0.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 38% | 98% |  |
+| 3.5–4.5% | 51% | 60% | Median |
+| 4.5–5.5% | 9% | 9% |  |
+| 5.5–6.5% | 0.3% | 0.3% | Last Result |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -73,8 +73,9 @@ Last result: **12** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–11 | 0–11 | 0–11 | 0–12 |
-| [13–17 May 2021](2021-05-17-AKO.html) | AKO | 0 | 0 | 0 | 0–10 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–10 |
+| [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–9 |
+| [13–17 May 2021](2021-05-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0–10 | 0–12 | 0–12 | 0–12 |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 10 | 0–11 | 0–11 | 0–11 | 0–13 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 0 | 0 | 0–9 | 0–9 | 0–10 |
@@ -120,21 +121,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Median |
-| 1 | 0% | 24% |  |
-| 2 | 0% | 24% |  |
-| 3 | 0% | 24% |  |
-| 4 | 0% | 24% |  |
-| 5 | 0% | 24% |  |
-| 6 | 0% | 24% |  |
-| 7 | 0% | 24% |  |
-| 8 | 0% | 24% |  |
-| 9 | 2% | 24% |  |
-| 10 | 5% | 22% |  |
-| 11 | 16% | 17% |  |
-| 12 | 0.4% | 0.6% | Last Result |
-| 13 | 0.1% | 0.2% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0% | 2% |  |
+| 4 | 0% | 2% |  |
+| 5 | 0% | 2% |  |
+| 6 | 0% | 2% |  |
+| 7 | 0% | 2% |  |
+| 8 | 0% | 2% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.7% | 0.8% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% | Last Result |
 
 
