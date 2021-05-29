@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Mon, 24 May 2021 20:47:51 +0200</pubDate>
+    <pubDate>Fri, 28 May 2021 21:55:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 11–19 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2021-05-19-FOCUS.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2021-05-24T20:47:51.328298+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 13–17 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 13–19 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 22–27 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 17–20 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 12–17 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–11 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–11 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 14–17 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 36–43 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA: 13–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO-seats.png"
+        length="319804"
+        type="image/png"/>
+      <pubDate>Fri, 28 May 2021 21:55:01 +0200</pubDate>
+      <dc:date>2021-05-28T21:55:01.195296+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 13–17 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO-coalitions-seats.png"
+        length="923352"
+        type="image/png"/>
+      <pubDate>Fri, 28 May 2021 21:55:01 +0200</pubDate>
+      <dc:date>2021-05-28T21:55:01.195296+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 13–17 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 11.1–15.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 7.7–11.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 1.3–3.0%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.6–8.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 3.6–6.1%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 6.5–9.8%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0.9–2.4%&lt;/li&gt;&lt;li&gt;Za ľudí: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 2.0–4.0%&lt;/li&gt;&lt;li&gt;VLASŤ: 2.4–4.5%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 18.8–23.7%&lt;/li&gt;&lt;li&gt;REPUBLIKA: 6.7–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-05-17-AKO.png"
         length="465439"
         type="image/png"/>
-      <pubDate>Sun, 23 May 2021 23:52:40 +0200</pubDate>
-      <dc:date>2021-05-23T23:52:40.994453+02:00</dc:date>
+      <pubDate>Fri, 28 May 2021 21:55:01 +0200</pubDate>
+      <dc:date>2021-05-28T21:55:01.195296+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 12–17 April 2021 – Seat Projections for the Parties</title>
@@ -1109,6 +1129,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2021-05-24T20:47:51.328298+02:00</dc:date>
+    <dc:date>2021-05-28T21:55:01.195296+02:00</dc:date>
   </channel>
 </rss>
