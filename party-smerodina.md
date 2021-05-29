@@ -77,9 +77,9 @@ Last result: **17** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 14–21 | 13–22 | 11–23 |
+| N/A | [Poll Average](average.html) | 16 | 13–19 | 12–21 | 12–22 | 11–23 |
 | [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 14 | 14–16 | 12–17 | 11–17 | 11–19 |
-| [13–17 May 2021](2021-05-17-AKO.html) | AKO | 14 | 14–17 | 14–17 | 14–17 | 11–17 |
+| [13–17 May 2021](2021-05-17-AKO.html) | AKO | 14 | 12–17 | 12–17 | 12–17 | 10–17 |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 14 | 12–17 | 11–17 | 11–18 | 11–19 |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 14 | 12–16 | 12–16 | 11–17 | 10–19 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 19 | 16–22 | 16–23 | 16–23 | 14–23 |
@@ -125,14 +125,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.2% | 100% |  |
-| 11 | 1.0% | 99.7% |  |
-| 12 | 1.2% | 98.7% |  |
-| 13 | 1.2% | 98% |  |
-| 14 | 40% | 96% |  |
-| 15 | 2% | 56% |  |
-| 16 | 13% | 54% | Median |
-| 17 | 14% | 41% | Last Result |
+| 10 | 0.3% | 100% |  |
+| 11 | 1.1% | 99.6% |  |
+| 12 | 8% | 98.6% |  |
+| 13 | 1.4% | 91% |  |
+| 14 | 35% | 89% |  |
+| 15 | 2% | 54% |  |
+| 16 | 13% | 52% | Median |
+| 17 | 12% | 39% | Last Result |
 | 18 | 9% | 27% |  |
 | 19 | 10% | 18% |  |
 | 20 | 0.5% | 8% |  |
