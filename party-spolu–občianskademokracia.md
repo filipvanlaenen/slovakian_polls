@@ -10,9 +10,9 @@ Last result: **7.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
-| [7–11 June 2021](2021-06-11-AKO.html) | AKO | 1.6% | N/A | N/A | N/A | N/A |
-| [2–9 June 2021](2021-06-09-FOCUS.html) | FOCUS | 1.5% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.4% | 0.9–2.1% | 0.8–2.2% | 0.7–2.4% | 0.5–2.8% |
+| [7–11 June 2021](2021-06-11-AKO.html) | AKO | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [2–9 June 2021](2021-06-09-FOCUS.html) | FOCUS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
 | [13–17 May 2021](2021-05-17-AKO.html) | AKO | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
@@ -58,10 +58,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 88% | 98% | Median |
-| 1.5–2.5% | 9% | 9% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.8% | 100% |  |
+| 0.5–1.5% | 59% | 99.2% | Median |
+| 1.5–2.5% | 38% | 40% |  |
+| 2.5–3.5% | 1.5% | 1.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -77,8 +77,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [7–11 June 2021](2021-06-11-AKO.html) | AKO |  |  |  |  |  |
-| [2–9 June 2021](2021-06-09-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [7–11 June 2021](2021-06-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [2–9 June 2021](2021-06-09-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [13–17 May 2021](2021-05-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
