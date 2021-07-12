@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Fri, 02 Jul 2021 16:02:25 +0200</pubDate>
+    <pubDate>Mon, 12 Jul 2021 13:02:47 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 7–11 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17–24 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 23–31 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 14–22 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 13–18 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 0–11 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–13 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 13–19 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 36–44 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO-seats.png"
+        length="351204"
+        type="image/png"/>
+      <pubDate>Mon, 12 Jul 2021 12:05:20 +0200</pubDate>
+      <dc:date>2021-07-12T12:05:20.394676+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 7–11 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO-coalitions-seats.png"
+        length="993402"
+        type="image/png"/>
+      <pubDate>Mon, 12 Jul 2021 12:05:20 +0200</pubDate>
+      <dc:date>2021-07-12T12:05:20.394676+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 7–11 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-11-AKO.png"
         length="451126"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 15:40:04 +0200</pubDate>
-      <dc:date>2021-07-02T15:40:04.306667+02:00</dc:date>
+      <pubDate>Mon, 12 Jul 2021 12:05:20 +0200</pubDate>
+      <dc:date>2021-07-12T12:05:20.394676+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 2–9 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-06-09-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 17–26 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 20–26 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 10–17 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 0–11 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 11–17 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 9–13 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0–13 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 9–13 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 33–45 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA: 0–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-09-FOCUS-seats.png"
+        length="364034"
+        type="image/png"/>
+      <pubDate>Mon, 12 Jul 2021 13:02:47 +0200</pubDate>
+      <dc:date>2021-07-12T13:02:47.541961+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 2–9 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-06-09-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-09-FOCUS-coalitions-seats.png"
+        length="1061154"
+        type="image/png"/>
+      <pubDate>Mon, 12 Jul 2021 13:02:47 +0200</pubDate>
+      <dc:date>2021-07-12T13:02:47.541961+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 2–9 June 2021 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-06-09-FOCUS.png"
         length="452292"
         type="image/png"/>
-      <pubDate>Fri, 02 Jul 2021 16:02:25 +0200</pubDate>
-      <dc:date>2021-07-02T16:02:25.860088+02:00</dc:date>
+      <pubDate>Mon, 12 Jul 2021 13:02:47 +0200</pubDate>
+      <dc:date>2021-07-12T13:02:47.541961+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 11–19 May 2021 – Seat Projections for the Parties</title>
@@ -1129,6 +1169,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2021-07-02T16:02:25.860088+02:00</dc:date>
+    <dc:date>2021-07-12T13:02:47.541961+02:00</dc:date>
   </channel>
 </rss>
