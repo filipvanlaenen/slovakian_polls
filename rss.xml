@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Národná rada</title>
     <link>https://filipvanlaenen.github.io/slovakian_polls</link>
     <description>All Registered Polls for the Národná rada</description>
-    <pubDate>Mon, 19 Jul 2021 17:05:40 +0200</pubDate>
+    <pubDate>Sun, 22 Aug 2021 17:45:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 10–15 August 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 19–25 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 24–31 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 17–21 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA: 10–15 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 10–15 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 14–19 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí: 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 32–41 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO-seats.png"
+        length="330473"
+        type="image/png"/>
+      <pubDate>Sun, 22 Aug 2021 17:45:42 +0200</pubDate>
+      <dc:date>2021-08-22T17:45:42.186009+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 10–15 August 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO-coalitions-seats.png"
+        length="999288"
+        type="image/png"/>
+      <pubDate>Sun, 22 Aug 2021 17:45:42 +0200</pubDate>
+      <dc:date>2021-08-22T17:45:42.186009+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 10–15 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia: 9.5–13.4%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita: 12.6–17.0%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti: 8.1–11.8%&lt;/li&gt;&lt;li&gt;Slovenská národná strana: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko: 2.9–5.3%&lt;/li&gt;&lt;li&gt;SME RODINA: 5.2–8.3%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko: 7.3–10.8%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Za ľudí: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Dobrá voľba: 0.9–2.5%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia: 17.2–22.1%&lt;/li&gt;&lt;li&gt;REPUBLIKA: 3.4–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_polls/2021-08-15-AKO.png"
+        length="455261"
+        type="image/png"/>
+      <pubDate>Sun, 22 Aug 2021 17:45:42 +0200</pubDate>
+      <dc:date>2021-08-22T17:45:42.186009+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 6–12 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_polls/2021-07-12-AKO.html#seats</link>
@@ -1199,6 +1229,6 @@
       <pubDate>Sun, 20 Sep 2020 19:52:02 +0200</pubDate>
       <dc:date>2020-09-20T19:52:02.204918+02:00</dc:date>
     </item>
-    <dc:date>2021-07-19T17:05:40.80929+02:00</dc:date>
+    <dc:date>2021-08-22T17:45:42.186009+02:00</dc:date>
   </channel>
 </rss>
