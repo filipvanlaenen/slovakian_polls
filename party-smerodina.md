@@ -87,8 +87,8 @@ Last result: **17** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 9–16 | 0–18 | 0–18 | 0–21 |
-| [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 10 | 0–12 | 0–14 | 0–14 | 0–14 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 10–18 | 10–18 | 0–21 |
+| [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 11 | 10–11 | 10–13 | 9–13 | 0–15 |
 | [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 16 | 16–18 | 16–19 | 16–20 | 16–23 |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | 13 | 12–15 | 11–16 | 11–17 | 11–17 |
 | [6–13 September 2021](2021-09-13-AKO.html) | AKO | 12 | 11–12 | 11–14 | 9–15 | 0–17 |
@@ -145,21 +145,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 0% | 95% |  |
-| 2 | 0% | 95% |  |
-| 3 | 0% | 95% |  |
-| 4 | 0% | 95% |  |
-| 5 | 0% | 95% |  |
-| 6 | 0% | 95% |  |
-| 7 | 0% | 95% |  |
-| 8 | 0% | 95% |  |
-| 9 | 9% | 95% |  |
-| 10 | 4% | 86% |  |
-| 11 | 9% | 82% |  |
-| 12 | 19% | 73% |  |
-| 13 | 11% | 54% | Median |
-| 14 | 5% | 43% |  |
+| 0 | 0.7% | 100% |  |
+| 1 | 0% | 99.3% |  |
+| 2 | 0% | 99.3% |  |
+| 3 | 0% | 99.3% |  |
+| 4 | 0% | 99.3% |  |
+| 5 | 0% | 99.3% |  |
+| 6 | 0% | 99.3% |  |
+| 7 | 0% | 99.3% |  |
+| 8 | 0% | 99.3% |  |
+| 9 | 0.4% | 99.3% |  |
+| 10 | 7% | 98.9% |  |
+| 11 | 25% | 92% |  |
+| 12 | 13% | 67% |  |
+| 13 | 12% | 54% | Median |
+| 14 | 4% | 42% |  |
 | 15 | 3% | 38% |  |
 | 16 | 28% | 35% |  |
 | 17 | 2% | 7% | Last Result |
