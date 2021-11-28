@@ -10,9 +10,9 @@ Last result: **7.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.7% | 5.0–8.1% | 4.8–8.4% | 4.4–9.0% |
 | [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
-| [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 5.9% | N/A | N/A | N/A | N/A |
+| [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | 8.6% | N/A | N/A | N/A | N/A |
 | [6–13 September 2021](2021-09-13-AKO.html) | AKO | 8.7% | N/A | N/A | N/A | N/A |
 | [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 7.0% | N/A | N/A | N/A | N/A |
@@ -66,13 +66,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 26% | 97% |  |
-| 6.5–7.5% | 46% | 71% | Last Result, Median |
-| 7.5–8.5% | 22% | 25% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 1.2% | 100% |  |
+| 4.5–5.5% | 15% | 98.8% |  |
+| 5.5–6.5% | 38% | 84% | Median |
+| 6.5–7.5% | 32% | 46% | Last Result |
+| 7.5–8.5% | 12% | 14% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -84,9 +85,9 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 12–15 | 11–15 | 10–17 | 0–18 |
+| N/A | [Poll Average](average.html) | 11 | 10–14 | 10–15 | 10–15 | 0–17 |
 | [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 12 | 12–15 | 11–15 | 10–17 | 0–18 |
-| [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky |  |  |  |  |  |
+| [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 10 | 10–11 | 10–11 | 10–12 | 0–14 |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [6–13 September 2021](2021-09-13-AKO.html) | AKO |  |  |  |  |  |
 | [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza |  |  |  |  |  |
@@ -142,27 +143,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 0% | 99.1% |  |
-| 2 | 0% | 99.1% |  |
-| 3 | 0% | 99.1% |  |
-| 4 | 0% | 99.1% |  |
-| 5 | 0% | 99.1% |  |
-| 6 | 0% | 99.1% |  |
-| 7 | 0% | 99.1% |  |
-| 8 | 0% | 99.1% |  |
-| 9 | 0.8% | 99.1% |  |
-| 10 | 1.1% | 98% |  |
-| 11 | 2% | 97% |  |
-| 12 | 66% | 95% | Median |
-| 13 | 1.2% | 29% |  |
-| 14 | 9% | 27% |  |
-| 15 | 15% | 19% |  |
-| 16 | 1.3% | 4% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.4% | 0.9% |  |
-| 19 | 0% | 0.5% |  |
-| 20 | 0.5% | 0.5% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 0% | 99.2% |  |
+| 2 | 0% | 99.2% |  |
+| 3 | 0% | 99.2% |  |
+| 4 | 0% | 99.2% |  |
+| 5 | 0% | 99.2% |  |
+| 6 | 0% | 99.2% |  |
+| 7 | 0% | 99.2% |  |
+| 8 | 0% | 99.2% |  |
+| 9 | 0.5% | 99.2% |  |
+| 10 | 42% | 98.7% |  |
+| 11 | 7% | 56% | Median |
+| 12 | 34% | 49% |  |
+| 13 | 1.4% | 15% |  |
+| 14 | 4% | 14% |  |
+| 15 | 8% | 9% |  |
+| 16 | 0.7% | 2% |  |
+| 17 | 0.9% | 1.3% |  |
+| 18 | 0.2% | 0.4% |  |
+| 19 | 0% | 0.2% |  |
+| 20 | 0.2% | 0.2% |  |
 | 21 | 0% | 0% |  |
 
 
