@@ -13,7 +13,7 @@ Last result: **5.8%** (General Election of 29 February 2020)
 | N/A | [Poll Average](average.html) | 2.5% | 1.8–3.3% | 1.7–3.5% | 1.5–3.7% | 1.3–4.2% |
 | [7–13 December 2021](2021-12-13-AKO.html) | AKO <br> TV JOJ | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [16–23 November 2021](2021-11-23-FOCUS.html) | FOCUS <br> TV Markíza | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
-| [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ | 2.2% | N/A | N/A | N/A | N/A |
+| [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -89,7 +89,7 @@ Last result: **12** seats (General Election of 29 February 2020)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–13 December 2021](2021-12-13-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [16–23 November 2021](2021-11-23-FOCUS.html) | FOCUS <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
-| [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 0 | 0 | 0 | 0 | 0 |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
