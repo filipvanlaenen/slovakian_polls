@@ -10,7 +10,9 @@ Last result: **4.6%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.0–8.1% | 5.7–8.5% | 5.4–8.8% | 5.0–9.4% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.7–7.8% | 5.4–8.1% | 5.2–8.4% | 4.7–9.0% |
+| [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [29 July–8 August 2022](2022-08-08-IPSOS.html) | IPSOS <br> Denník N | 6.3% | 5.4–7.3% | 5.2–7.6% | 4.9–7.9% | 4.6–8.5% |
 | [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.7–9.0% | 5.3–9.6% |
 | [20–27 June 2022](2022-06-27-Focus.html) | Focus <br> TV Markíza | 6.7% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–9.0% |
 | [7–10 June 2022](2022-06-10-AKO.html) | AKO <br> TV JOJ | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -83,13 +85,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% | Last Result |
-| 5.5–6.5% | 27% | 97% |  |
-| 6.5–7.5% | 44% | 70% | Median |
-| 7.5–8.5% | 22% | 26% |  |
-| 8.5–9.5% | 4% | 4% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 7% | 99.8% | Last Result |
+| 5.5–6.5% | 37% | 92% |  |
+| 6.5–7.5% | 40% | 55% | Median |
+| 7.5–8.5% | 14% | 15% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -101,7 +104,9 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–14 | 9–14 | 0–15 |
+| [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 12 | 10–14 | 10–14 | 10–15 | 10–16 |
+| [29 July–8 August 2022](2022-08-08-IPSOS.html) | IPSOS <br> Denník N | 12 | 10–12 | 9–14 | 0–14 | 0–15 |
 | [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 12 | 10–14 | 10–15 | 9–16 | 0–16 |
 | [20–27 June 2022](2022-06-27-Focus.html) | Focus <br> TV Markíza | 12 | 9–14 | 9–14 | 9–14 | 0–15 |
 | [7–10 June 2022](2022-06-10-AKO.html) | AKO <br> TV JOJ | 11 | 11–14 | 10–14 | 10–15 | 0–16 |
@@ -185,16 +190,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 98% |  |
 | 7 | 0% | 98% |  |
 | 8 | 0% | 98% |  |
-| 9 | 8% | 98% |  |
-| 10 | 16% | 91% |  |
-| 11 | 6% | 75% |  |
-| 12 | 49% | 70% | Median |
-| 13 | 6% | 21% |  |
-| 14 | 10% | 15% |  |
-| 15 | 3% | 4% |  |
-| 16 | 1.3% | 1.4% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 9 | 5% | 98% |  |
+| 10 | 16% | 93% |  |
+| 11 | 15% | 78% |  |
+| 12 | 39% | 62% | Median |
+| 13 | 11% | 24% |  |
+| 14 | 10% | 12% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.3% | 0.4% |  |
+| 17 | 0.1% | 0.1% |  |
+| 18 | 0% | 0% |  |
 
 
