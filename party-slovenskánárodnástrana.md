@@ -11,6 +11,7 @@ Last result: **3.2%** (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.7% | 2.6–4.8% | 2.3–5.1% | 2.2–5.3% | 1.9–5.9% |
+| [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
@@ -105,7 +106,8 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–9 | 0–10 | 0–10 |
+| [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 0 | 0–9 | 0–10 | 0–10 | 0–10 |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0–10 | 0–10 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0–9 | 0–9 |
@@ -185,17 +187,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 0% | 3% |  |
-| 4 | 0% | 3% |  |
-| 5 | 0% | 3% |  |
-| 6 | 0% | 3% |  |
-| 7 | 0% | 3% |  |
-| 8 | 0% | 3% |  |
-| 9 | 2% | 3% |  |
-| 10 | 1.1% | 1.1% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 0% | 6% |  |
+| 3 | 0% | 6% |  |
+| 4 | 0% | 6% |  |
+| 5 | 0% | 6% |  |
+| 6 | 0% | 6% |  |
+| 7 | 0% | 6% |  |
+| 8 | 1.4% | 6% |  |
+| 9 | 2% | 5% |  |
+| 10 | 3% | 3% |  |
 | 11 | 0% | 0% |  |
 
 
