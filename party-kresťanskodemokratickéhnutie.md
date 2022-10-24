@@ -107,9 +107,9 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–13 | 0–13 | 0–14 | 0–15 |
+| N/A | [Poll Average](average.html) | 12 | 9–13 | 9–14 | 0–14 | 0–15 |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 10 | 9–12 | 0–13 | 0–13 | 0–13 |
-| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 10 | 9–13 | 0–14 | 0–14 | 0–16 |
+| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 12 | 10–14 | 9–14 | 9–15 | 0–15 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 12 | 10–13 | 10–14 | 0–14 | 0–15 |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 11 | 10–13 | 10–13 | 9–14 | 0–15 |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 12 | 10–14 | 10–14 | 10–15 | 10–16 |
@@ -188,24 +188,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 0% | 93% |  |
-| 3 | 0% | 93% |  |
-| 4 | 0% | 93% |  |
-| 5 | 0% | 93% |  |
-| 6 | 0% | 93% |  |
-| 7 | 0% | 93% |  |
-| 8 | 0.2% | 93% |  |
-| 9 | 18% | 93% |  |
-| 10 | 23% | 75% |  |
-| 11 | 9% | 52% | Median |
-| 12 | 29% | 43% |  |
-| 13 | 9% | 14% |  |
-| 14 | 4% | 5% |  |
-| 15 | 0.8% | 1.1% |  |
-| 16 | 0.1% | 0.3% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0% | 0% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 0% | 95% |  |
+| 3 | 0% | 95% |  |
+| 4 | 0% | 95% |  |
+| 5 | 0% | 95% |  |
+| 6 | 0% | 95% |  |
+| 7 | 0% | 95% |  |
+| 8 | 0.2% | 95% |  |
+| 9 | 14% | 95% |  |
+| 10 | 16% | 81% |  |
+| 11 | 13% | 65% |  |
+| 12 | 36% | 52% | Median |
+| 13 | 8% | 16% |  |
+| 14 | 6% | 7% |  |
+| 15 | 1.2% | 1.4% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 

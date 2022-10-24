@@ -112,9 +112,9 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–15 | 10–16 | 8–16 | 8–18 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 8–15 | 8–17 |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 12 | 9–13 | 8–13 | 8–14 | 0–15 |
-| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 14 | 12–16 | 12–17 | 11–18 | 10–19 |
+| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 13 | 12–15 | 12–16 | 11–16 | 11–17 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 10 | 10–14 | 10–14 | 10–15 | 10–17 |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 9 | 0–10 | 0–11 | 0–11 | 0–13 |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 10 | 0–12 | 0–12 | 0–12 | 0–13 |
@@ -202,18 +202,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 99.7% |  |
 | 7 | 0% | 99.7% |  |
 | 8 | 3% | 99.7% |  |
-| 9 | 1.1% | 97% |  |
+| 9 | 1.0% | 97% |  |
 | 10 | 21% | 96% |  |
 | 11 | 8% | 75% |  |
-| 12 | 23% | 67% | Median |
-| 13 | 13% | 44% |  |
-| 14 | 16% | 31% |  |
-| 15 | 7% | 15% |  |
-| 16 | 7% | 9% |  |
-| 17 | 0.8% | 2% |  |
-| 18 | 1.0% | 1.2% |  |
-| 19 | 0.2% | 0.2% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 12 | 33% | 67% | Median |
+| 13 | 15% | 34% |  |
+| 14 | 13% | 19% |  |
+| 15 | 3% | 6% |  |
+| 16 | 1.4% | 2% |  |
+| 17 | 0.7% | 0.9% |  |
+| 18 | 0.1% | 0.2% |  |
+| 19 | 0% | 0% |  |
 
 
