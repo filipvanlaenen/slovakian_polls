@@ -14,7 +14,7 @@ Last result: **25.0%** (General Election of 29 February 2020)
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 7.1% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.8% | 6.1–10.5% |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
-| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza | 7.0% | N/A | N/A | N/A | N/A |
+| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [18–21 October 2022](2022-10-21-IPSOS.html) | IPSOS <br> Denník N | 7.9% | N/A | N/A | N/A | N/A |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.6% |
@@ -130,7 +130,7 @@ Last result: **53** seats (General Election of 29 February 2020)
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 12 | 11–15 | 11–16 | 10–16 | 10–17 |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 14 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 13 | 12–16 | 11–16 | 11–17 | 9–17 |
-| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza | 13 | 11–13 | 10–14 | 9–16 | 9–17 |
 | [18–21 October 2022](2022-10-21-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 14 | 12–16 | 12–16 | 11–17 | 11–18 |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 13 | 11–15 | 11–15 | 10–15 | 9–17 |
