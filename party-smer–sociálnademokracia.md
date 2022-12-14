@@ -10,7 +10,12 @@ Last result: **18.3%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.5% | 13.8–18.0% | 13.5–18.4% | 12.8–19.3% |
+| N/A | [Poll Average](average.html) | 15.9% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
+| [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 15.8% | 14.4–17.3% | 14.0–17.8% | 13.7–18.2% | 13.0–18.9% |
+| [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 15.6% | 14.3–17.2% | 13.9–17.6% | 13.5–18.0% | 12.9–18.8% |
+| [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
+| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza | 15.6% | N/A | N/A | N/A | N/A |
+| [18–21 October 2022](2022-10-21-IPSOS.html) | IPSOS <br> Denník N | 14.8% | N/A | N/A | N/A | N/A |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 15.4% | 14.0–16.9% | 13.6–17.3% | 13.3–17.7% | 12.6–18.5% |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.3–17.8% | 12.7–18.6% |
@@ -90,15 +95,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 3% | 99.8% |  |
-| 13.5–14.5% | 13% | 97% |  |
-| 14.5–15.5% | 27% | 85% |  |
-| 15.5–16.5% | 30% | 58% | Median |
-| 16.5–17.5% | 19% | 28% |  |
-| 17.5–18.5% | 7% | 9% | Last Result |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.2% | 0.3% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 11% | 98% |  |
+| 14.5–15.5% | 27% | 87% |  |
+| 15.5–16.5% | 33% | 61% | Median |
+| 16.5–17.5% | 20% | 28% |  |
+| 17.5–18.5% | 7% | 8% | Last Result |
+| 18.5–19.5% | 1.2% | 1.3% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -110,7 +115,12 @@ Last result: **38** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 25–31 | 25–33 | 24–34 | 23–34 |
+| N/A | [Poll Average](average.html) | 28 | 25–31 | 24–31 | 24–32 | 23–34 |
+| [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 26 | 24–31 | 24–31 | 24–31 | 23–33 |
+| [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 28 | 26–31 | 25–32 | 24–32 | 24–34 |
+| [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 28 | 25–30 | 25–31 | 25–32 | 23–36 |
+| [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [18–21 October 2022](2022-10-21-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 28 | 25–31 | 25–31 | 25–32 | 24–34 |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 27 | 26–34 | 25–34 | 23–34 | 23–34 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 29 | 26–30 | 25–31 | 24–32 | 22–33 |
@@ -191,21 +201,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.3% | 100% |  |
-| 23 | 1.3% | 99.6% |  |
-| 24 | 2% | 98% |  |
-| 25 | 11% | 97% |  |
-| 26 | 6% | 85% |  |
-| 27 | 21% | 79% |  |
-| 28 | 14% | 58% | Median |
-| 29 | 23% | 44% |  |
-| 30 | 5% | 20% |  |
-| 31 | 7% | 15% |  |
-| 32 | 3% | 8% |  |
-| 33 | 2% | 6% |  |
-| 34 | 4% | 4% |  |
-| 35 | 0.1% | 0.1% |  |
-| 36 | 0% | 0.1% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.1% | 99.9% |  |
+| 23 | 0.3% | 99.8% |  |
+| 24 | 9% | 99.5% |  |
+| 25 | 14% | 90% |  |
+| 26 | 4% | 77% |  |
+| 27 | 12% | 73% |  |
+| 28 | 25% | 61% | Median |
+| 29 | 9% | 36% |  |
+| 30 | 10% | 27% |  |
+| 31 | 13% | 17% |  |
+| 32 | 2% | 4% |  |
+| 33 | 0.6% | 1.4% |  |
+| 34 | 0.4% | 0.8% |  |
+| 35 | 0.1% | 0.4% |  |
+| 36 | 0.3% | 0.3% |  |
 | 37 | 0% | 0% |  |
 | 38 | 0% | 0% | Last Result |
 
