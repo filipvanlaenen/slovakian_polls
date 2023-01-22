@@ -10,7 +10,11 @@ Last result: **3.9%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.4–5.5% | 2.2–5.9% | 2.0–6.2% | 1.7–6.8% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.0–4.7% | 1.8–5.1% | 1.6–5.3% | 1.3–5.8% |
+| [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [19–23 December 2022](2022-12-23-Median.html) | Median | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.4–5.7% | 3.1–6.2% |
+| [6–12 December 2022](2022-12-12-AKO.html) | AKO <br> TV JOJ | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.5–7.1% |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 3.8% | 3.1–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
@@ -95,14 +99,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 14% | 99.8% |  |
-| 2.5–3.5% | 28% | 86% |  |
-| 3.5–4.5% | 27% | 59% | Last Result, Median |
-| 4.5–5.5% | 22% | 31% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 0.9% | 1.0% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 27% | 98% |  |
+| 2.5–3.5% | 28% | 72% | Median |
+| 3.5–4.5% | 29% | 43% | Last Result |
+| 4.5–5.5% | 13% | 14% |  |
+| 5.5–6.5% | 1.3% | 1.3% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -113,7 +116,11 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–10 | 0–12 |
+| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–9 | 0–9 | 0–10 |
+| [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [19–23 December 2022](2022-12-23-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 9 | 0–9 | 0–10 | 0–10 | 0–10 |
+| [6–12 December 2022](2022-12-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 0 | 0–10 | 0–10 | 0–11 | 0–12 |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0–9 | 0–9 | 0–10 |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
@@ -199,20 +206,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 0% | 18% |  |
-| 2 | 0% | 18% |  |
-| 3 | 0% | 18% |  |
-| 4 | 0% | 18% |  |
-| 5 | 0% | 18% |  |
-| 6 | 0% | 18% |  |
-| 7 | 0% | 18% |  |
-| 8 | 0% | 18% |  |
-| 9 | 3% | 18% |  |
-| 10 | 14% | 15% |  |
-| 11 | 0.6% | 1.3% |  |
-| 12 | 0.5% | 0.6% |  |
-| 13 | 0.1% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 0 | 85% | 100% | Last Result, Median |
+| 1 | 0% | 15% |  |
+| 2 | 0% | 15% |  |
+| 3 | 0% | 15% |  |
+| 4 | 0% | 15% |  |
+| 5 | 0% | 15% |  |
+| 6 | 0% | 15% |  |
+| 7 | 0% | 15% |  |
+| 8 | 0% | 15% |  |
+| 9 | 13% | 14% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0% | 0% |  |
 
 
