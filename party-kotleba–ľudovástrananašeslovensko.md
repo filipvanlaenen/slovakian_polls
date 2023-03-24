@@ -10,9 +10,12 @@ Last result: **8.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.5–3.5% | 1.3–3.8% | 1.2–4.0% | 0.9–4.5% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.3–3.2% | 1.0–3.4% | 0.9–3.7% | 0.7–4.1% |
+| [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 2.9% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
+| [9 January–5 February 2023](2023-02-05-Median.html) | Median | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.0% |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.5% | 2.0–4.9% |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
@@ -102,12 +105,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 43% | 87% | Median |
-| 2.5–3.5% | 35% | 44% |  |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0.1% | 100% |  |
+| 0.5–1.5% | 17% | 99.9% |  |
+| 1.5–2.5% | 46% | 83% | Median |
+| 2.5–3.5% | 34% | 37% |  |
+| 3.5–4.5% | 3% | 4% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% | Last Result |
@@ -122,8 +125,11 @@ Last result: **17** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
+| [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
+| [9 January–5 February 2023](2023-02-05-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 0 | 0 | 0 | 0 | 0 |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
