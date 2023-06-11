@@ -10,12 +10,15 @@ Last result: **5.8%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.0–2.6% | 0.8–2.8% | 0.7–3.0% | 0.5–3.4% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.6% | 0.8–2.9% | 0.7–3.1% | 0.5–3.5% |
+| [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
-| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [1 April–6 May 2023](2023-05-06-Median.html) | Median | 1.8% | N/A | N/A | N/A | N/A |
+| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 1.0% | N/A | N/A | N/A | N/A |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 1.8% | N/A | N/A | N/A | N/A |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 1.8% | N/A | N/A | N/A | N/A |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 2.0% | N/A | N/A | N/A | N/A |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 2.9% | 2.3–3.7% | 2.1–3.9% | 2.0–4.1% | 1.8–4.5% |
 | [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 1.2% | 0.8–1.8% | 0.7–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -112,10 +115,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.5% | 100% |  |
-| 0.5–1.5% | 28% | 99.5% |  |
-| 1.5–2.5% | 59% | 71% | Median |
-| 2.5–3.5% | 12% | 12% |  |
+| 0.0–0.5% | 0.9% | 100% |  |
+| 0.5–1.5% | 36% | 99.1% |  |
+| 1.5–2.5% | 50% | 63% | Median |
+| 2.5–3.5% | 13% | 13% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
@@ -130,11 +133,14 @@ Last result: **12** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
-| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
-| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
-| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
-| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
+| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 0 | 0 | 0 | 0 | 0 |
+| [1 April–6 May 2023](2023-05-06-Median.html) | Median |  |  |  |  |  |
+| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS |  |  |  |  |  |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
