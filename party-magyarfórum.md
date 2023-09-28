@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.2–1.2% | 0.2–1.3% | 0.1–1.6% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.0% | 0.1–1.1% | 0.1–1.2% | 0.0–1.5% |
+| [25–26 September 2023](2023-09-26-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS | 0.3% | 0.2–0.6% | 0.1–0.7% | 0.1–0.7% | 0.1–0.9% |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -144,9 +149,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 43% | 100% | Last Result |
-| 0.5–1.5% | 56% | 57% | Median |
-| 1.5–2.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 52% | 100% | Last Result |
+| 0.5–1.5% | 48% | 48% | Median |
+| 1.5–2.5% | 0.3% | 0.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -159,6 +164,11 @@ Last result: **0** seats (General Election of 29 February 2020)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [25–26 September 2023](2023-09-26-Median.html) | Median |  |  |  |  |  |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 0 | 0 | 0 | 0 | 0 |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 0 | 0 | 0 | 0 | 0 |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 0 | 0 | 0 | 0 | 0 |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |

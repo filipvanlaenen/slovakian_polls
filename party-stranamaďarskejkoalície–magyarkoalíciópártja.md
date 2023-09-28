@@ -10,7 +10,12 @@ Last result: **3.9%** (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.7–5.5% | 2.5–5.9% | 2.3–6.3% | 2.0–6.9% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.4–5.2% | 2.2–5.7% | 2.0–6.1% | 1.7–6.8% |
+| [25–26 September 2023](2023-09-26-Median.html) | Median | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.9% | 2.3–5.3% |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS | 3.1% | 2.6–3.8% | 2.5–4.0% | 2.3–4.2% | 2.1–4.5% |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–6.9% | 3.9–7.4% |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -144,15 +149,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 39% | 94% |  |
-| 3.5–4.5% | 31% | 56% | Last Result, Median |
-| 4.5–5.5% | 15% | 25% |  |
-| 5.5–6.5% | 8% | 9% |  |
-| 6.5–7.5% | 1.2% | 1.3% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 13% | 99.8% |  |
+| 2.5–3.5% | 42% | 87% | Median |
+| 3.5–4.5% | 27% | 45% | Last Result |
+| 4.5–5.5% | 11% | 18% |  |
+| 5.5–6.5% | 6% | 7% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -163,7 +168,12 @@ Last result: **0** seats (General Election of 29 February 2020)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–11 | 0–11 | 0–11 |
+| N/A | [Poll Average](average.html) | 0 | 0–10 | 0–10 | 0–11 | 0–11 |
+| [25–26 September 2023](2023-09-26-Median.html) | Median | 0 | 0 | 0 | 0 | 0 |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 0 | 0 | 0 | 0–9 | 0–9 |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0–9 | 0–9 |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 10 | 8–11 | 0–11 | 0–11 | 0–12 |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 0 | 0 | 0 | 0 | 0–10 |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0–9 |
@@ -299,20 +309,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Last Result, Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 0% | 19% |  |
-| 5 | 0% | 19% |  |
-| 6 | 0% | 19% |  |
-| 7 | 0% | 19% |  |
-| 8 | 2% | 19% |  |
-| 9 | 1.3% | 17% |  |
-| 10 | 10% | 16% |  |
-| 11 | 5% | 5% |  |
-| 12 | 0.3% | 0.4% |  |
-| 13 | 0.1% | 0.1% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 0% | 14% |  |
+| 4 | 0% | 14% |  |
+| 5 | 0% | 14% |  |
+| 6 | 0% | 14% |  |
+| 7 | 0% | 14% |  |
+| 8 | 1.2% | 14% |  |
+| 9 | 2% | 13% |  |
+| 10 | 7% | 11% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.2% | 0.3% |  |
+| 13 | 0% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 
